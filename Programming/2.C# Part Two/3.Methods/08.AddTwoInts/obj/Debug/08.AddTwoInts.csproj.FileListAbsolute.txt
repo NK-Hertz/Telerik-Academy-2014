@@ -1,0 +1,6 @@
+D:\Telerik\C# 2\C# 2\03.Methods\08.AddTwoInts\bin\Debug\08.AddTwoInts.exe.config
+D:\Telerik\C# 2\C# 2\03.Methods\08.AddTwoInts\bin\Debug\08.AddTwoInts.exe
+D:\Telerik\C# 2\C# 2\03.Methods\08.AddTwoInts\bin\Debug\08.AddTwoInts.pdb
+D:\Telerik\C# 2\C# 2\03.Methods\08.AddTwoInts\obj\Debug\08.AddTwoInts.csprojResolveAssemblyReference.cache
+D:\Telerik\C# 2\C# 2\03.Methods\08.AddTwoInts\obj\Debug\08.AddTwoInts.exe
+D:\Telerik\C# 2\C# 2\03.Methods\08.AddTwoInts\obj\Debug\08.AddTwoInts.pdb

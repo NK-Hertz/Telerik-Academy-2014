@@ -1,0 +1,5 @@
+D:\Telerik\C# 2\C# 2\03.Methods\07.TheReverseOfTheDigits\bin\Debug\07.TheReverseOfTheDigits.exe.config
+D:\Telerik\C# 2\C# 2\03.Methods\07.TheReverseOfTheDigits\bin\Debug\07.TheReverseOfTheDigits.exe
+D:\Telerik\C# 2\C# 2\03.Methods\07.TheReverseOfTheDigits\bin\Debug\07.TheReverseOfTheDigits.pdb
+D:\Telerik\C# 2\C# 2\03.Methods\07.TheReverseOfTheDigits\obj\Debug\07.TheReverseOfTheDigits.exe
+D:\Telerik\C# 2\C# 2\03.Methods\07.TheReverseOfTheDigits\obj\Debug\07.TheReverseOfTheDigits.pdb

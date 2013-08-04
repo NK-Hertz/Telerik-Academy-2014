@@ -1,0 +1,6 @@
+D:\Telerik\C# 2\C# 2\03.Methods\03.LastDigit\bin\Debug\03.LastDigit.exe.config
+D:\Telerik\C# 2\C# 2\03.Methods\03.LastDigit\bin\Debug\03.LastDigit.exe
+D:\Telerik\C# 2\C# 2\03.Methods\03.LastDigit\bin\Debug\03.LastDigit.pdb
+D:\Telerik\C# 2\C# 2\03.Methods\03.LastDigit\obj\Debug\03.LastDigit.exe
+D:\Telerik\C# 2\C# 2\03.Methods\03.LastDigit\obj\Debug\03.LastDigit.pdb
+D:\Telerik\C# 2\C# 2\03.Methods\03.LastDigit\obj\Debug\03.LastDigit.csprojResolveAssemblyReference.cache

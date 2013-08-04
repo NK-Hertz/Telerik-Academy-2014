@@ -1,0 +1,5 @@
+D:\Telerik\C#\1.Arrays\05.IncreasingSequenceInArray\bin\Debug\05.IncreasingSequenceInArray.exe.config
+D:\Telerik\C#\1.Arrays\05.IncreasingSequenceInArray\bin\Debug\05.IncreasingSequenceInArray.exe
+D:\Telerik\C#\1.Arrays\05.IncreasingSequenceInArray\bin\Debug\05.IncreasingSequenceInArray.pdb
+D:\Telerik\C#\1.Arrays\05.IncreasingSequenceInArray\obj\Debug\05.IncreasingSequenceInArray.exe
+D:\Telerik\C#\1.Arrays\05.IncreasingSequenceInArray\obj\Debug\05.IncreasingSequenceInArray.pdb

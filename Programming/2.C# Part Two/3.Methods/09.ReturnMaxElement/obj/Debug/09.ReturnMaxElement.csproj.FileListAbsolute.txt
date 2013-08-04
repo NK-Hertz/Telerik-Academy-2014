@@ -1,0 +1,6 @@
+D:\Telerik\C# 2\C# 2\03.Methods\09.ReturnMaxElement\bin\Debug\09.ReturnMaxElement.exe.config
+D:\Telerik\C# 2\C# 2\03.Methods\09.ReturnMaxElement\bin\Debug\09.ReturnMaxElement.exe
+D:\Telerik\C# 2\C# 2\03.Methods\09.ReturnMaxElement\bin\Debug\09.ReturnMaxElement.pdb
+D:\Telerik\C# 2\C# 2\03.Methods\09.ReturnMaxElement\obj\Debug\09.ReturnMaxElement.csprojResolveAssemblyReference.cache
+D:\Telerik\C# 2\C# 2\03.Methods\09.ReturnMaxElement\obj\Debug\09.ReturnMaxElement.exe
+D:\Telerik\C# 2\C# 2\03.Methods\09.ReturnMaxElement\obj\Debug\09.ReturnMaxElement.pdb

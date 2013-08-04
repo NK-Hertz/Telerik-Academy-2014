@@ -1,0 +1,6 @@
+D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\02.RectangularMatrixWithMaxSum\bin\Debug\02.RectangularMatrixWithMaxSum.exe.config
+D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\02.RectangularMatrixWithMaxSum\bin\Debug\02.RectangularMatrixWithMaxSum.exe
+D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\02.RectangularMatrixWithMaxSum\bin\Debug\02.RectangularMatrixWithMaxSum.pdb
+D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\02.RectangularMatrixWithMaxSum\obj\Debug\02.RectangularMatrixWithMaxSum.csprojResolveAssemblyReference.cache
+D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\02.RectangularMatrixWithMaxSum\obj\Debug\02.RectangularMatrixWithMaxSum.exe
+D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\02.RectangularMatrixWithMaxSum\obj\Debug\02.RectangularMatrixWithMaxSum.pdb

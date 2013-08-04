@@ -1,0 +1,6 @@
+D:\Telerik\C#\1.Arrays\12.ArrayOfLetters\bin\Debug\12.ArrayOfLetters.exe.config
+D:\Telerik\C#\1.Arrays\12.ArrayOfLetters\bin\Debug\12.ArrayOfLetters.exe
+D:\Telerik\C#\1.Arrays\12.ArrayOfLetters\bin\Debug\12.ArrayOfLetters.pdb
+D:\Telerik\C#\1.Arrays\12.ArrayOfLetters\obj\Debug\12.ArrayOfLetters.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\1.Arrays\12.ArrayOfLetters\obj\Debug\12.ArrayOfLetters.exe
+D:\Telerik\C#\1.Arrays\12.ArrayOfLetters\obj\Debug\12.ArrayOfLetters.pdb

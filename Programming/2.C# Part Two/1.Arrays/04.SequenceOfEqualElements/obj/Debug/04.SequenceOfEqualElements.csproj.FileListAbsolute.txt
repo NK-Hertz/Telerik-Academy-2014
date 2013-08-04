@@ -1,0 +1,6 @@
+D:\Telerik\C#\1.Arrays\04.SequenceOfEqualElements\bin\Debug\04.SequenceOfEqualElements.exe.config
+D:\Telerik\C#\1.Arrays\04.SequenceOfEqualElements\bin\Debug\04.SequenceOfEqualElements.exe
+D:\Telerik\C#\1.Arrays\04.SequenceOfEqualElements\bin\Debug\04.SequenceOfEqualElements.pdb
+D:\Telerik\C#\1.Arrays\04.SequenceOfEqualElements\obj\Debug\04.SequenceOfEqualElements.exe
+D:\Telerik\C#\1.Arrays\04.SequenceOfEqualElements\obj\Debug\04.SequenceOfEqualElements.pdb
+D:\Telerik\C#\1.Arrays\04.SequenceOfEqualElements\obj\Debug\04.SequenceOfEqualElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik\C# 2\C# 2\03.Methods\11.Polynomials\bin\Debug\11.Polynomials.exe.config
+D:\Telerik\C# 2\C# 2\03.Methods\11.Polynomials\bin\Debug\11.Polynomials.exe
+D:\Telerik\C# 2\C# 2\03.Methods\11.Polynomials\bin\Debug\11.Polynomials.pdb
+D:\Telerik\C# 2\C# 2\03.Methods\11.Polynomials\obj\Debug\11.Polynomials.exe
+D:\Telerik\C# 2\C# 2\03.Methods\11.Polynomials\obj\Debug\11.Polynomials.pdb

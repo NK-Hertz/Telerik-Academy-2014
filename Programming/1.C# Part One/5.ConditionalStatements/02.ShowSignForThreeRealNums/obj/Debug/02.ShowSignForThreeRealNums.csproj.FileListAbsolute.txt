@@ -1,0 +1,6 @@
+D:\Telerik\C#\5.ConditionalStatements\02.ShowSignForThreeRealNums\bin\Debug\02.ShowSignForThreeRealNums.exe.config
+D:\Telerik\C#\5.ConditionalStatements\02.ShowSignForThreeRealNums\bin\Debug\02.ShowSignForThreeRealNums.exe
+D:\Telerik\C#\5.ConditionalStatements\02.ShowSignForThreeRealNums\bin\Debug\02.ShowSignForThreeRealNums.pdb
+D:\Telerik\C#\5.ConditionalStatements\02.ShowSignForThreeRealNums\obj\Debug\02.ShowSignForThreeRealNums.exe
+D:\Telerik\C#\5.ConditionalStatements\02.ShowSignForThreeRealNums\obj\Debug\02.ShowSignForThreeRealNums.pdb
+D:\Telerik\C#\5.ConditionalStatements\02.ShowSignForThreeRealNums\obj\Debug\02.ShowSignForThreeRealNums.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\12.ModifiesNtoHoldAnotherValueBitOps\bin\Debug\12.ModifiesNtoHoldAnotherValueBitOps.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\12.ModifiesNtoHoldAnotherValueBitOps\bin\Debug\12.ModifiesNtoHoldAnotherValueBitOps.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\12.ModifiesNtoHoldAnotherValueBitOps\bin\Debug\12.ModifiesNtoHoldAnotherValueBitOps.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\12.ModifiesNtoHoldAnotherValueBitOps\obj\Debug\12.ModifiesNtoHoldAnotherValueBitOps.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\12.ModifiesNtoHoldAnotherValueBitOps\obj\Debug\12.ModifiesNtoHoldAnotherValueBitOps.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\12.ModifiesNtoHoldAnotherValueBitOps\obj\Debug\12.ModifiesNtoHoldAnotherValueBitOps.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\10.MarketingFirm\bin\Debug\10.MarketingFirm.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\10.MarketingFirm\bin\Debug\10.MarketingFirm.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\10.MarketingFirm\bin\Debug\10.MarketingFirm.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\10.MarketingFirm\obj\Debug\10.MarketingFirm.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\10.MarketingFirm\obj\Debug\10.MarketingFirm.pdb

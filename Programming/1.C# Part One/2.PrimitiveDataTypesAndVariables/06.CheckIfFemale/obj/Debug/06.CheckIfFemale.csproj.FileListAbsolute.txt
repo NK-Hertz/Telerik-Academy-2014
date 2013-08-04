@@ -1,0 +1,5 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\06.CheckIfFemale\bin\Debug\06.CheckIfFemale.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\06.CheckIfFemale\bin\Debug\06.CheckIfFemale.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\06.CheckIfFemale\bin\Debug\06.CheckIfFemale.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\06.CheckIfFemale\obj\Debug\06.CheckIfFemale.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\06.CheckIfFemale\obj\Debug\06.CheckIfFemale.pdb

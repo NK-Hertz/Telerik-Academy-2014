@@ -1,0 +1,6 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\04.ValueInHex\bin\Debug\04.ValueInHex.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\04.ValueInHex\bin\Debug\04.ValueInHex.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\04.ValueInHex\bin\Debug\04.ValueInHex.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\04.ValueInHex\obj\Debug\04.ValueInHex.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\04.ValueInHex\obj\Debug\04.ValueInHex.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\04.ValueInHex\obj\Debug\04.ValueInHex.pdb

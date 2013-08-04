@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\07.SumNMembersOfFibonacci\bin\Debug\07.SumNMembersOfFibonacci.exe.config
+D:\Telerik\C#\6.Loops\07.SumNMembersOfFibonacci\obj\Debug\07.SumNMembersOfFibonacci.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\07.SumNMembersOfFibonacci\bin\Debug\07.SumNMembersOfFibonacci.exe
+D:\Telerik\C#\6.Loops\07.SumNMembersOfFibonacci\bin\Debug\07.SumNMembersOfFibonacci.pdb
+D:\Telerik\C#\6.Loops\07.SumNMembersOfFibonacci\obj\Debug\07.SumNMembersOfFibonacci.exe
+D:\Telerik\C#\6.Loops\07.SumNMembersOfFibonacci\obj\Debug\07.SumNMembersOfFibonacci.pdb

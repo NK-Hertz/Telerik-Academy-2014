@@ -1,0 +1,5 @@
+D:\Telerik\C#\5.ConditionalStatements\04.SortThreeRealValues\bin\Debug\04.SortThreeRealValues.exe.config
+D:\Telerik\C#\5.ConditionalStatements\04.SortThreeRealValues\bin\Debug\04.SortThreeRealValues.exe
+D:\Telerik\C#\5.ConditionalStatements\04.SortThreeRealValues\bin\Debug\04.SortThreeRealValues.pdb
+D:\Telerik\C#\5.ConditionalStatements\04.SortThreeRealValues\obj\Debug\04.SortThreeRealValues.exe
+D:\Telerik\C#\5.ConditionalStatements\04.SortThreeRealValues\obj\Debug\04.SortThreeRealValues.pdb

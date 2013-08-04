@@ -1,0 +1,5 @@
+D:\Telerik\C#\5.ConditionalStatements\08.IntDoubleOrString\bin\Debug\08.IntDoubleOrString.exe.config
+D:\Telerik\C#\5.ConditionalStatements\08.IntDoubleOrString\bin\Debug\08.IntDoubleOrString.exe
+D:\Telerik\C#\5.ConditionalStatements\08.IntDoubleOrString\bin\Debug\08.IntDoubleOrString.pdb
+D:\Telerik\C#\5.ConditionalStatements\08.IntDoubleOrString\obj\Debug\08.IntDoubleOrString.exe
+D:\Telerik\C#\5.ConditionalStatements\08.IntDoubleOrString\obj\Debug\08.IntDoubleOrString.pdb

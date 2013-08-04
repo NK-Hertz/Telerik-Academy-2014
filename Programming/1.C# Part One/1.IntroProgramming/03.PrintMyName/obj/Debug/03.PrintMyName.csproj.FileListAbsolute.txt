@@ -1,0 +1,5 @@
+D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.exe.config
+D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.exe
+D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.pdb
+D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.exe
+D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.pdb

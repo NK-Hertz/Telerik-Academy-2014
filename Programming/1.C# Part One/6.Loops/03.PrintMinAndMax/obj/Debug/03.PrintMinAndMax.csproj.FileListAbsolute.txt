@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\03.PrintMinAndMax\bin\Debug\03.PrintMinAndMax.exe.config
+D:\Telerik\C#\6.Loops\03.PrintMinAndMax\bin\Debug\03.PrintMinAndMax.exe
+D:\Telerik\C#\6.Loops\03.PrintMinAndMax\bin\Debug\03.PrintMinAndMax.pdb
+D:\Telerik\C#\6.Loops\03.PrintMinAndMax\obj\Debug\03.PrintMinAndMax.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\03.PrintMinAndMax\obj\Debug\03.PrintMinAndMax.exe
+D:\Telerik\C#\6.Loops\03.PrintMinAndMax\obj\Debug\03.PrintMinAndMax.pdb

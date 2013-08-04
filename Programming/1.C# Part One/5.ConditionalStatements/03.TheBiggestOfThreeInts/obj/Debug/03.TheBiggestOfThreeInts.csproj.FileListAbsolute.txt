@@ -1,0 +1,6 @@
+D:\Telerik\C#\5.ConditionalStatements\03.TheBiggestOfThreeInts\bin\Debug\03.TheBiggestOfThreeInts.exe.config
+D:\Telerik\C#\5.ConditionalStatements\03.TheBiggestOfThreeInts\bin\Debug\03.TheBiggestOfThreeInts.exe
+D:\Telerik\C#\5.ConditionalStatements\03.TheBiggestOfThreeInts\bin\Debug\03.TheBiggestOfThreeInts.pdb
+D:\Telerik\C#\5.ConditionalStatements\03.TheBiggestOfThreeInts\obj\Debug\03.TheBiggestOfThreeInts.exe
+D:\Telerik\C#\5.ConditionalStatements\03.TheBiggestOfThreeInts\obj\Debug\03.TheBiggestOfThreeInts.pdb
+D:\Telerik\C#\5.ConditionalStatements\03.TheBiggestOfThreeInts\obj\Debug\03.TheBiggestOfThreeInts.csprojResolveAssemblyReference.cache

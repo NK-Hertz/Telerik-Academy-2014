@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\09.CatalanNumbers\bin\Debug\09.CatalanNumbers.exe.config
+D:\Telerik\C#\6.Loops\09.CatalanNumbers\bin\Debug\09.CatalanNumbers.exe
+D:\Telerik\C#\6.Loops\09.CatalanNumbers\bin\Debug\09.CatalanNumbers.pdb
+D:\Telerik\C#\6.Loops\09.CatalanNumbers\obj\Debug\09.CatalanNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\09.CatalanNumbers\obj\Debug\09.CatalanNumbers.exe
+D:\Telerik\C#\6.Loops\09.CatalanNumbers\obj\Debug\09.CatalanNumbers.pdb

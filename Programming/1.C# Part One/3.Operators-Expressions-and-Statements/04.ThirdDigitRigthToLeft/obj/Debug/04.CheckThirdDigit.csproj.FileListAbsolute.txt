@@ -1,0 +1,5 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\04.ThirdDigitRigthToLeft\bin\Debug\04.ThirdDigitRigthToLeft.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\04.ThirdDigitRigthToLeft\bin\Debug\04.ThirdDigitRigthToLeft.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\04.ThirdDigitRigthToLeft\bin\Debug\04.ThirdDigitRigthToLeft.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\04.ThirdDigitRigthToLeft\obj\Debug\04.ThirdDigitRigthToLeft.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\04.ThirdDigitRigthToLeft\obj\Debug\04.ThirdDigitRigthToLeft.pdb

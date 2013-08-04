@@ -1,0 +1,5 @@
+D:\Telerik\C#\4.ConsoleInputOutput\08.1toN\bin\Debug\08.1toN.exe.config
+D:\Telerik\C#\4.ConsoleInputOutput\08.1toN\bin\Debug\08.1toN.exe
+D:\Telerik\C#\4.ConsoleInputOutput\08.1toN\bin\Debug\08.1toN.pdb
+D:\Telerik\C#\4.ConsoleInputOutput\08.1toN\obj\Debug\08.1toN.exe
+D:\Telerik\C#\4.ConsoleInputOutput\08.1toN\obj\Debug\08.1toN.pdb

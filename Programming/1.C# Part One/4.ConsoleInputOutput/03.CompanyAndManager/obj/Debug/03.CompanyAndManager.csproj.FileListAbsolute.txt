@@ -1,0 +1,6 @@
+D:\Telerik\C#\4.ConsoleInputOutput\03.CompanyAndManager\bin\Debug\03.CompanyAndManager.exe.config
+D:\Telerik\C#\4.ConsoleInputOutput\03.CompanyAndManager\bin\Debug\03.CompanyAndManager.exe
+D:\Telerik\C#\4.ConsoleInputOutput\03.CompanyAndManager\bin\Debug\03.CompanyAndManager.pdb
+D:\Telerik\C#\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.exe
+D:\Telerik\C#\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.pdb
+D:\Telerik\C#\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.csprojResolveAssemblyReference.cache

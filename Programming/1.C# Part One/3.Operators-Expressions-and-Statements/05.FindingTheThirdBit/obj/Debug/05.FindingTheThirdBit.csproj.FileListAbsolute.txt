@@ -1,0 +1,6 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\05.FindingTheThirdBit\bin\Debug\05.FindingTheThirdBit.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\05.FindingTheThirdBit\bin\Debug\05.FindingTheThirdBit.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\05.FindingTheThirdBit\bin\Debug\05.FindingTheThirdBit.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\05.FindingTheThirdBit\obj\Debug\05.FindingTheThirdBit.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\05.FindingTheThirdBit\obj\Debug\05.FindingTheThirdBit.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\05.FindingTheThirdBit\obj\Debug\05.FindingTheThirdBit.pdb

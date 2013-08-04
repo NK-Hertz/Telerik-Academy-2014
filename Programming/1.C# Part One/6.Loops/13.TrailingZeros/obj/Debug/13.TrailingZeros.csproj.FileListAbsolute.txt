@@ -1,0 +1,5 @@
+D:\Telerik\C#\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe.config
+D:\Telerik\C#\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe
+D:\Telerik\C#\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.pdb
+D:\Telerik\C#\6.Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.exe
+D:\Telerik\C#\6.Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.pdb

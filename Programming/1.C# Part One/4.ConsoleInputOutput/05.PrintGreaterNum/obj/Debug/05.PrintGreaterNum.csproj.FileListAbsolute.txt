@@ -1,0 +1,5 @@
+D:\Telerik\C#\4.ConsoleInputOutput\05.PrintGreaterNum\bin\Debug\05.PrintGreaterNum.exe.config
+D:\Telerik\C#\4.ConsoleInputOutput\05.PrintGreaterNum\bin\Debug\05.PrintGreaterNum.exe
+D:\Telerik\C#\4.ConsoleInputOutput\05.PrintGreaterNum\bin\Debug\05.PrintGreaterNum.pdb
+D:\Telerik\C#\4.ConsoleInputOutput\05.PrintGreaterNum\obj\Debug\05.PrintGreaterNum.exe
+D:\Telerik\C#\4.ConsoleInputOutput\05.PrintGreaterNum\obj\Debug\05.PrintGreaterNum.pdb

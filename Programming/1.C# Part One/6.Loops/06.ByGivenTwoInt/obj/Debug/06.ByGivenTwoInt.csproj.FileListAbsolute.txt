@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\06.ByGivenTwoInt\bin\Debug\06.ByGivenTwoInt.exe.config
+D:\Telerik\C#\6.Loops\06.ByGivenTwoInt\bin\Debug\06.ByGivenTwoInt.exe
+D:\Telerik\C#\6.Loops\06.ByGivenTwoInt\bin\Debug\06.ByGivenTwoInt.pdb
+D:\Telerik\C#\6.Loops\06.ByGivenTwoInt\obj\Debug\06.ByGivenTwoInt.exe
+D:\Telerik\C#\6.Loops\06.ByGivenTwoInt\obj\Debug\06.ByGivenTwoInt.pdb
+D:\Telerik\C#\6.Loops\06.ByGivenTwoInt\obj\Debug\06.ByGivenTwoInt.csprojResolveAssemblyReference.cache

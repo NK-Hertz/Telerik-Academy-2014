@@ -1,0 +1,6 @@
+D:\Telerik\C#\5.ConditionalStatements\01.SwitchValuesIf\bin\Debug\01.SwitchValuesIf.exe.config
+D:\Telerik\C#\5.ConditionalStatements\01.SwitchValuesIf\bin\Debug\01.SwitchValuesIf.exe
+D:\Telerik\C#\5.ConditionalStatements\01.SwitchValuesIf\bin\Debug\01.SwitchValuesIf.pdb
+D:\Telerik\C#\5.ConditionalStatements\01.SwitchValuesIf\obj\Debug\01.SwitchValuesIf.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\5.ConditionalStatements\01.SwitchValuesIf\obj\Debug\01.SwitchValuesIf.exe
+D:\Telerik\C#\5.ConditionalStatements\01.SwitchValuesIf\obj\Debug\01.SwitchValuesIf.pdb

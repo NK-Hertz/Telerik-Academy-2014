@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\05.CalculateFactEquation\bin\Debug\05.CalculateFactEquation.exe.config
+D:\Telerik\C#\6.Loops\05.CalculateFactEquation\bin\Debug\05.CalculateFactEquation.exe
+D:\Telerik\C#\6.Loops\05.CalculateFactEquation\bin\Debug\05.CalculateFactEquation.pdb
+D:\Telerik\C#\6.Loops\05.CalculateFactEquation\obj\Debug\05.CalculateFactEquation.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\05.CalculateFactEquation\obj\Debug\05.CalculateFactEquation.exe
+D:\Telerik\C#\6.Loops\05.CalculateFactEquation\obj\Debug\05.CalculateFactEquation.pdb

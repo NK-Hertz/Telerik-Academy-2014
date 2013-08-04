@@ -1,0 +1,6 @@
+D:\Telerik\C#\5.ConditionalStatements\09.ZeroSumWithFiveInts\bin\Debug\09.ZeroSumWithFiveInts.exe.config
+D:\Telerik\C#\5.ConditionalStatements\09.ZeroSumWithFiveInts\bin\Debug\09.ZeroSumWithFiveInts.exe
+D:\Telerik\C#\5.ConditionalStatements\09.ZeroSumWithFiveInts\bin\Debug\09.ZeroSumWithFiveInts.pdb
+D:\Telerik\C#\5.ConditionalStatements\09.ZeroSumWithFiveInts\obj\Debug\09.ZeroSumWithFiveInts.exe
+D:\Telerik\C#\5.ConditionalStatements\09.ZeroSumWithFiveInts\obj\Debug\09.ZeroSumWithFiveInts.pdb
+D:\Telerik\C#\5.ConditionalStatements\09.ZeroSumWithFiveInts\obj\Debug\09.ZeroSumWithFiveInts.csprojResolveAssemblyReference.cache

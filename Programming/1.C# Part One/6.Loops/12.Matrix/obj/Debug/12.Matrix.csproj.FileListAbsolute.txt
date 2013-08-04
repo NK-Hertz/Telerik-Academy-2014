@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\12.Matrix\bin\Debug\12.Matrix.exe.config
+D:\Telerik\C#\6.Loops\12.Matrix\bin\Debug\12.Matrix.exe
+D:\Telerik\C#\6.Loops\12.Matrix\bin\Debug\12.Matrix.pdb
+D:\Telerik\C#\6.Loops\12.Matrix\obj\Debug\12.Matrix.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\12.Matrix\obj\Debug\12.Matrix.exe
+D:\Telerik\C#\6.Loops\12.Matrix\obj\Debug\12.Matrix.pdb

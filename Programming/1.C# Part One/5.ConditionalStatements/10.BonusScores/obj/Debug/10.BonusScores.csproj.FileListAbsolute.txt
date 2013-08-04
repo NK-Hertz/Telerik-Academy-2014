@@ -1,0 +1,6 @@
+D:\Telerik\C#\5.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe.config
+D:\Telerik\C#\5.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe
+D:\Telerik\C#\5.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.pdb
+D:\Telerik\C#\5.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.exe
+D:\Telerik\C#\5.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.pdb
+D:\Telerik\C#\5.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.csprojResolveAssemblyReference.cache

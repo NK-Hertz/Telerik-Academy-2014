@@ -1,0 +1,6 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\09.PointWithinCirlceAndOutOfRectangle\bin\Debug\09.PointWithinCirlceAndOutOfRectangle.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\09.PointWithinCirlceAndOutOfRectangle\obj\Debug\09.PointWithinCirlceAndOutOfRectangle.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\09.PointWithinCirlceAndOutOfRectangle\bin\Debug\09.PointWithinCirlceAndOutOfRectangle.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\09.PointWithinCirlceAndOutOfRectangle\bin\Debug\09.PointWithinCirlceAndOutOfRectangle.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\09.PointWithinCirlceAndOutOfRectangle\obj\Debug\09.PointWithinCirlceAndOutOfRectangle.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\09.PointWithinCirlceAndOutOfRectangle\obj\Debug\09.PointWithinCirlceAndOutOfRectangle.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C#\4.ConsoleInputOutput\10.SumWithPrecision\bin\Debug\10.SumWithPrecision.exe.config
+D:\Telerik\C#\4.ConsoleInputOutput\10.SumWithPrecision\bin\Debug\10.SumWithPrecision.exe
+D:\Telerik\C#\4.ConsoleInputOutput\10.SumWithPrecision\bin\Debug\10.SumWithPrecision.pdb
+D:\Telerik\C#\4.ConsoleInputOutput\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\4.ConsoleInputOutput\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.exe
+D:\Telerik\C#\4.ConsoleInputOutput\10.SumWithPrecision\obj\Debug\10.SumWithPrecision.pdb

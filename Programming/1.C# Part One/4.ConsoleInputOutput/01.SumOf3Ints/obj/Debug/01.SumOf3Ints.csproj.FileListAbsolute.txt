@@ -1,0 +1,6 @@
+D:\Telerik\C#\4.ConsoleInputOutput\01.SumOf3Ints\bin\Debug\01.SumOf3Ints.exe.config
+D:\Telerik\C#\4.ConsoleInputOutput\01.SumOf3Ints\bin\Debug\01.SumOf3Ints.exe
+D:\Telerik\C#\4.ConsoleInputOutput\01.SumOf3Ints\bin\Debug\01.SumOf3Ints.pdb
+D:\Telerik\C#\4.ConsoleInputOutput\01.SumOf3Ints\obj\Debug\01.SumOf3Ints.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\4.ConsoleInputOutput\01.SumOf3Ints\obj\Debug\01.SumOf3Ints.exe
+D:\Telerik\C#\4.ConsoleInputOutput\01.SumOf3Ints\obj\Debug\01.SumOf3Ints.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\11.ValueOfBitInNumber\bin\Debug\11.ValueOfBitInNumber.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\11.ValueOfBitInNumber\bin\Debug\11.ValueOfBitInNumber.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\11.ValueOfBitInNumber\bin\Debug\11.ValueOfBitInNumber.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\11.ValueOfBitInNumber\obj\Debug\11.ValueOfBitInNumber.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\11.ValueOfBitInNumber\obj\Debug\11.ValueOfBitInNumber.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\11.ValueOfBitInNumber\obj\Debug\11.ValueOfBitInNumber.csprojResolveAssemblyReference.cache

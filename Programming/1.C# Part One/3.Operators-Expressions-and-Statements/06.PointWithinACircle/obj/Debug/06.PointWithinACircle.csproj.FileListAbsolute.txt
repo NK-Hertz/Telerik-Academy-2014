@@ -1,0 +1,6 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\06.PointWithinACircle\bin\Debug\06.PointWithinACircle.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\06.PointWithinACircle\bin\Debug\06.PointWithinACircle.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\06.PointWithinACircle\bin\Debug\06.PointWithinACircle.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\06.PointWithinACircle\obj\Debug\06.PointWithinACircle.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\06.PointWithinACircle\obj\Debug\06.PointWithinACircle.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\06.PointWithinACircle\obj\Debug\06.PointWithinACircle.pdb

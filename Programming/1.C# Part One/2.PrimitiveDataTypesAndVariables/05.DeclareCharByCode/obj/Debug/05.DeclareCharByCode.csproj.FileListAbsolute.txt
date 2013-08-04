@@ -1,0 +1,5 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\05.DeclareCharByCode\bin\Debug\05.DeclareCharByCode.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\05.DeclareCharByCode\bin\Debug\05.DeclareCharByCode.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\05.DeclareCharByCode\bin\Debug\05.DeclareCharByCode.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\05.DeclareCharByCode\obj\Debug\05.DeclareCharByCode.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\05.DeclareCharByCode\obj\Debug\05.DeclareCharByCode.pdb

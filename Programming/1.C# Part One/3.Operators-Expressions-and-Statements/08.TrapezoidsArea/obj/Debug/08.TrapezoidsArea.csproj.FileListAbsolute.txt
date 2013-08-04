@@ -1,0 +1,5 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\08.TrapezoidsArea\bin\Debug\08.TrapezoidsArea.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\08.TrapezoidsArea\bin\Debug\08.TrapezoidsArea.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\08.TrapezoidsArea\bin\Debug\08.TrapezoidsArea.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\08.TrapezoidsArea\obj\Debug\08.TrapezoidsArea.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\08.TrapezoidsArea\obj\Debug\08.TrapezoidsArea.pdb

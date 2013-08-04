@@ -1,0 +1,5 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\08.UseOfQuotations\obj\Debug\08.UseOfQuotations.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\08.UseOfQuotations\obj\Debug\08.UseOfQuotations.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\03.CompareFloatingPointNumbers\bin\Debug\03.CompareFloatingPointNumbers.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\03.CompareFloatingPointNumbers\obj\Debug\03.CompareFloatingPointNumbers.pdb

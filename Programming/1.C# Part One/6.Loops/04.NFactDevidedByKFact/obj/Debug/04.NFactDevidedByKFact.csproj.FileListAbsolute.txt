@@ -1,0 +1,5 @@
+D:\Telerik\C#\6.Loops\04.NFactDevidedByKFact\bin\Debug\04.NFactDevidedByKFact.exe.config
+D:\Telerik\C#\6.Loops\04.NFactDevidedByKFact\bin\Debug\04.NFactDevidedByKFact.exe
+D:\Telerik\C#\6.Loops\04.NFactDevidedByKFact\bin\Debug\04.NFactDevidedByKFact.pdb
+D:\Telerik\C#\6.Loops\04.NFactDevidedByKFact\obj\Debug\04.NFactDevidedByKFact.exe
+D:\Telerik\C#\6.Loops\04.NFactDevidedByKFact\obj\Debug\04.NFactDevidedByKFact.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\04.ThirdDigitRigthToLeft\bin\Debug\04.ThirdDigitRigthToLeft.exe.config

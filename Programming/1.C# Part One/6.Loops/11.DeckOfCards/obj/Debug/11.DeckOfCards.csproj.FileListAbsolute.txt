@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\11.DeckOfCards\bin\Debug\11.DeckOfCards.exe.config
+D:\Telerik\C#\6.Loops\11.DeckOfCards\bin\Debug\11.DeckOfCards.exe
+D:\Telerik\C#\6.Loops\11.DeckOfCards\bin\Debug\11.DeckOfCards.pdb
+D:\Telerik\C#\6.Loops\11.DeckOfCards\obj\Debug\11.DeckOfCards.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\11.DeckOfCards\obj\Debug\11.DeckOfCards.exe
+D:\Telerik\C#\6.Loops\11.DeckOfCards\obj\Debug\11.DeckOfCards.pdb

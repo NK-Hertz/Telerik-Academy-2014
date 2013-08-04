@@ -1,0 +1,5 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\09.TriangleCopyRight\bin\Debug\09.TriangleCopyRight.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\09.TriangleCopyRight\bin\Debug\09.TriangleCopyRight.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\09.TriangleCopyRight\bin\Debug\09.TriangleCopyRight.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\09.TriangleCopyRight\obj\Debug\09.TriangleCopyRight.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\09.TriangleCopyRight\obj\Debug\09.TriangleCopyRight.pdb

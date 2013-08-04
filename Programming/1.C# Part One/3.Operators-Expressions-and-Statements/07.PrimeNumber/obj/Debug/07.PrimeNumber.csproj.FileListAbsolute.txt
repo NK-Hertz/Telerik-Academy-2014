@@ -1,0 +1,6 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\07.PrimeNumber\bin\Debug\07.PrimeNumber.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\07.PrimeNumber\bin\Debug\07.PrimeNumber.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\07.PrimeNumber\bin\Debug\07.PrimeNumber.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\07.PrimeNumber\obj\Debug\07.PrimeNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\07.PrimeNumber\obj\Debug\07.PrimeNumber.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\07.PrimeNumber\obj\Debug\07.PrimeNumber.pdb

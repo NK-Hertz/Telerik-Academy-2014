@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\02.NotDivisibleBy3and7\bin\Debug\02.NotDivisibleBy3and7.exe.config
+D:\Telerik\C#\6.Loops\02.NotDivisibleBy3and7\bin\Debug\02.NotDivisibleBy3and7.exe
+D:\Telerik\C#\6.Loops\02.NotDivisibleBy3and7\bin\Debug\02.NotDivisibleBy3and7.pdb
+D:\Telerik\C#\6.Loops\02.NotDivisibleBy3and7\obj\Debug\02.NotDivisibleBy3and7.exe
+D:\Telerik\C#\6.Loops\02.NotDivisibleBy3and7\obj\Debug\02.NotDivisibleBy3and7.pdb
+D:\Telerik\C#\6.Loops\02.NotDivisibleBy3and7\obj\Debug\02.NotDivisibleBy3and7.csprojResolveAssemblyReference.cache

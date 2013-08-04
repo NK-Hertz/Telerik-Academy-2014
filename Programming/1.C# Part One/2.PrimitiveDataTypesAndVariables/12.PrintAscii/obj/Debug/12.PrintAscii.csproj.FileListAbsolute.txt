@@ -1,0 +1,6 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\12.PrintAscii\bin\Debug\12.PrintAscii.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\12.PrintAscii\obj\Debug\12.PrintAscii.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\12.PrintAscii\bin\Debug\12.PrintAscii.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\12.PrintAscii\bin\Debug\12.PrintAscii.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\12.PrintAscii\obj\Debug\12.PrintAscii.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\12.PrintAscii\obj\Debug\12.PrintAscii.pdb

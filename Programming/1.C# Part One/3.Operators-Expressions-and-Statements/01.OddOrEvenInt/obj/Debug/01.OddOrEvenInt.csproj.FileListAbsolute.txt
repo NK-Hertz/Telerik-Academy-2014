@@ -1,0 +1,6 @@
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\01.OddOrEvenInt\bin\Debug\01.OddOrEvenInt.exe.config
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\01.OddOrEvenInt\bin\Debug\01.OddOrEvenInt.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\01.OddOrEvenInt\bin\Debug\01.OddOrEvenInt.pdb
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\01.OddOrEvenInt\obj\Debug\01.OddOrEvenInt.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\01.OddOrEvenInt\obj\Debug\01.OddOrEvenInt.exe
+D:\Telerik\C#\3.Operators-Expressions-and-Statements\01.OddOrEvenInt\obj\Debug\01.OddOrEvenInt.pdb

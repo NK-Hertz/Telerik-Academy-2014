@@ -1,0 +1,5 @@
+D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareOf12345.exe.config
+D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareOf12345.exe
+D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareOf12345.pdb
+D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\obj\Debug\08.PrintSquareOf12345.exe
+D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\obj\Debug\08.PrintSquareOf12345.pdb

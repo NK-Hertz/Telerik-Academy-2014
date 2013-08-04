@@ -1,0 +1,6 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\07.ConcatinateStrings\bin\Debug\07.ConcatinateStrings.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\07.ConcatinateStrings\bin\Debug\07.ConcatinateStrings.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\07.ConcatinateStrings\bin\Debug\07.ConcatinateStrings.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\07.ConcatinateStrings\obj\Debug\07.ConcatinateStrings.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\07.ConcatinateStrings\obj\Debug\07.ConcatinateStrings.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\07.ConcatinateStrings\obj\Debug\07.ConcatinateStrings.pdb

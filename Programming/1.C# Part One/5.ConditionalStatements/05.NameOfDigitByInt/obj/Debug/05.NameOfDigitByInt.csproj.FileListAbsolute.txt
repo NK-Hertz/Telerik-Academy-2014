@@ -1,0 +1,5 @@
+D:\Telerik\C#\5.ConditionalStatements\05.NameOfDigitByInt\bin\Debug\05.NameOfDigitByInt.exe.config
+D:\Telerik\C#\5.ConditionalStatements\05.NameOfDigitByInt\bin\Debug\05.NameOfDigitByInt.exe
+D:\Telerik\C#\5.ConditionalStatements\05.NameOfDigitByInt\bin\Debug\05.NameOfDigitByInt.pdb
+D:\Telerik\C#\5.ConditionalStatements\05.NameOfDigitByInt\obj\Debug\05.NameOfDigitByInt.exe
+D:\Telerik\C#\5.ConditionalStatements\05.NameOfDigitByInt\obj\Debug\05.NameOfDigitByInt.pdb

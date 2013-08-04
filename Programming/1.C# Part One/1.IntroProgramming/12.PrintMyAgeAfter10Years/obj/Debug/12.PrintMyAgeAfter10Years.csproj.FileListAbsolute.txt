@@ -1,0 +1,5 @@
+D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyAgeAfter10Years.exe.config
+D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyAgeAfter10Years.exe
+D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyAgeAfter10Years.pdb
+D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\obj\Debug\12.PrintMyAgeAfter10Years.exe
+D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\obj\Debug\12.PrintMyAgeAfter10Years.pdb

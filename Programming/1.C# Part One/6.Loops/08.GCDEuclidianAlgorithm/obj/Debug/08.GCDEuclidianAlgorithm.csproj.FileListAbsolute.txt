@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\08.GCDEuclidianAlgorithm\bin\Debug\08.GCDEuclidianAlgorithm.exe.config
+D:\Telerik\C#\6.Loops\08.GCDEuclidianAlgorithm\obj\Debug\08.GCDEuclidianAlgorithm.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\08.GCDEuclidianAlgorithm\bin\Debug\08.GCDEuclidianAlgorithm.exe
+D:\Telerik\C#\6.Loops\08.GCDEuclidianAlgorithm\bin\Debug\08.GCDEuclidianAlgorithm.pdb
+D:\Telerik\C#\6.Loops\08.GCDEuclidianAlgorithm\obj\Debug\08.GCDEuclidianAlgorithm.exe
+D:\Telerik\C#\6.Loops\08.GCDEuclidianAlgorithm\obj\Debug\08.GCDEuclidianAlgorithm.pdb

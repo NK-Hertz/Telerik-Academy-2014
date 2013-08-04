@@ -1,0 +1,5 @@
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\11.SwitchingValues\bin\Debug\11.SwitchingValues.exe.config
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\11.SwitchingValues\bin\Debug\11.SwitchingValues.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\11.SwitchingValues\bin\Debug\11.SwitchingValues.pdb
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\11.SwitchingValues\obj\Debug\11.SwitchingValues.exe
+D:\Telerik\C#\2.PrimitiveDataTypesAndVariables\11.SwitchingValues\obj\Debug\11.SwitchingValues.pdb

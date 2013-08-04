@@ -1,0 +1,6 @@
+D:\Telerik\C#\5.ConditionalStatements\11.NumToText\bin\Debug\11.NumToText.exe.config
+D:\Telerik\C#\5.ConditionalStatements\11.NumToText\obj\Debug\11.NumToText.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\5.ConditionalStatements\11.NumToText\bin\Debug\11.NumToText.exe
+D:\Telerik\C#\5.ConditionalStatements\11.NumToText\bin\Debug\11.NumToText.pdb
+D:\Telerik\C#\5.ConditionalStatements\11.NumToText\obj\Debug\11.NumToText.exe
+D:\Telerik\C#\5.ConditionalStatements\11.NumToText\obj\Debug\11.NumToText.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C#\6.Loops\01.Print1toN\bin\Debug\01.Print1toN.exe.config
+D:\Telerik\C#\6.Loops\01.Print1toN\bin\Debug\01.Print1toN.exe
+D:\Telerik\C#\6.Loops\01.Print1toN\bin\Debug\01.Print1toN.pdb
+D:\Telerik\C#\6.Loops\01.Print1toN\obj\Debug\01.Print1toN.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\6.Loops\01.Print1toN\obj\Debug\01.Print1toN.exe
+D:\Telerik\C#\6.Loops\01.Print1toN\obj\Debug\01.Print1toN.pdb

@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\07.FromOneToAnotherNumSys\bin\Debug\07.FromOneToAnotherNumSys.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\07.FromOneToAnotherNumSys\obj\Debug\07.FromOneToAnotherNumSys.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\07.FromOneToAnotherNumSys\bin\Debug\07.FromOneToAnotherNumSys.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\07.FromOneToAnotherNumSys\bin\Debug\07.FromOneToAnotherNumSys.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\07.FromOneToAnotherNumSys\obj\Debug\07.FromOneToAnotherNumSys.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\07.FromOneToAnotherNumSys\obj\Debug\07.FromOneToAnotherNumSys.pdb

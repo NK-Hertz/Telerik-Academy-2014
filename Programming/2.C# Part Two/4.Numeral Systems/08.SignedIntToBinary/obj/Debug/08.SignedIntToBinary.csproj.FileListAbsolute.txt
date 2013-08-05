@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\08.SignedIntToBinary\bin\Debug\08.SignedIntToBinary.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\08.SignedIntToBinary\bin\Debug\08.SignedIntToBinary.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\08.SignedIntToBinary\bin\Debug\08.SignedIntToBinary.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\08.SignedIntToBinary\obj\Debug\08.SignedIntToBinary.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\08.SignedIntToBinary\obj\Debug\08.SignedIntToBinary.pdb

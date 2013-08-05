@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\04.HexToDecimal\bin\Debug\04.HexToDecimal.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\04.HexToDecimal\obj\Debug\04.HexToDecimal.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\04.HexToDecimal\obj\Debug\04.HexToDecimal.pdb

@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\05.HexToBinary\bin\Debug\05.HexToBinary.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\05.HexToBinary\bin\Debug\05.HexToBinary.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\05.HexToBinary\bin\Debug\05.HexToBinary.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\05.HexToBinary\obj\Debug\05.HexToBinary.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\05.HexToBinary\obj\Debug\05.HexToBinary.pdb

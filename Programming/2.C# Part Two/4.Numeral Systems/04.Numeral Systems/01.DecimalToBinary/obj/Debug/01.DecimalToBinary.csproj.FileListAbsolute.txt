@@ -1,0 +1,1 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\04.Numeral Systems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config

@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

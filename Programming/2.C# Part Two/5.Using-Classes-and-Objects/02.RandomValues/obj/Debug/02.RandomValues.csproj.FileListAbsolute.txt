@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\02.RandomValues\bin\Debug\02.RandomValues.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\02.RandomValues\bin\Debug\02.RandomValues.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\02.RandomValues\bin\Debug\02.RandomValues.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\02.RandomValues\obj\Debug\02.RandomValues.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\02.RandomValues\obj\Debug\02.RandomValues.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\02.RandomValues\obj\Debug\02.RandomValues.pdb

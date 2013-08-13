@@ -1,1 +1,6 @@
 D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.pdb

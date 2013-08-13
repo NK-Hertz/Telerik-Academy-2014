@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\06.SumSequenceInStr\bin\Debug\06.SumSequenceInStr.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\06.SumSequenceInStr\bin\Debug\06.SumSequenceInStr.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\06.SumSequenceInStr\bin\Debug\06.SumSequenceInStr.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\06.SumSequenceInStr\obj\Debug\06.SumSequenceInStr.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\5.Using-Classes-and-Objects\06.SumSequenceInStr\obj\Debug\06.SumSequenceInStr.pdb

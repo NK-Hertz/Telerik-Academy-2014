@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\02.TenNumbers\bin\Debug\02.TenNumbers.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\02.TenNumbers\bin\Debug\02.TenNumbers.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\02.TenNumbers\bin\Debug\02.TenNumbers.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\02.TenNumbers\obj\Debug\02.TenNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\02.TenNumbers\obj\Debug\02.TenNumbers.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\02.TenNumbers\obj\Debug\02.TenNumbers.pdb

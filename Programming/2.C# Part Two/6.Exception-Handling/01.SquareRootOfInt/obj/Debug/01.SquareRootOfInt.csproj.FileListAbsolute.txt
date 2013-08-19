@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\01.SquareRootOfInt\bin\Debug\01.SquareRootOfInt.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\01.SquareRootOfInt\obj\Debug\01.SquareRootOfInt.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\01.SquareRootOfInt\bin\Debug\01.SquareRootOfInt.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\01.SquareRootOfInt\bin\Debug\01.SquareRootOfInt.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\01.SquareRootOfInt\obj\Debug\01.SquareRootOfInt.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\01.SquareRootOfInt\obj\Debug\01.SquareRootOfInt.pdb

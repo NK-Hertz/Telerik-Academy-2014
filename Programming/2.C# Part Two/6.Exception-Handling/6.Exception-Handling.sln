@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRootOfInt", "01.SquareRootOfInt\01.SquareRootOfInt.csproj", "{943E78D8-B1A6-4D84-848B-B713DFAD9A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TenNumbers", "02.TenNumbers\02.TenNumbers.csproj", "{296360CD-303C-4404-8DBF-07E25D0B9813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ReadFile", "03.ReadFile\03.ReadFile.csproj", "{139A6084-D640-47FB-A834-60B290A10223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943E78D8-B1A6-4D84-848B-B713DFAD9A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943E78D8-B1A6-4D84-848B-B713DFAD9A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943E78D8-B1A6-4D84-848B-B713DFAD9A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943E78D8-B1A6-4D84-848B-B713DFAD9A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296360CD-303C-4404-8DBF-07E25D0B9813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296360CD-303C-4404-8DBF-07E25D0B9813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296360CD-303C-4404-8DBF-07E25D0B9813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296360CD-303C-4404-8DBF-07E25D0B9813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139A6084-D640-47FB-A834-60B290A10223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139A6084-D640-47FB-A834-60B290A10223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139A6084-D640-47FB-A834-60B290A10223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139A6084-D640-47FB-A834-60B290A10223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

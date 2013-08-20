@@ -21,9 +21,13 @@ class SquareRootOfInt
                 Console.WriteLine(result);
             }
         }
-        catch(FormatException)
+        catch (FormatException)
         {
             Console.WriteLine("Invalid number");
+        }
+        catch (OverflowException)
+        {
+            Console.WriteLine("The number is too big!");
         }
         finally
         {

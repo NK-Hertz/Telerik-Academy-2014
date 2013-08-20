@@ -14,7 +14,7 @@ class Downloader
         string url = Console.ReadLine();
         Console.WriteLine("Enter name for your file: ");
         string fileName = Console.ReadLine();
-
+        //using  closes the resource after it`s work is done
         using (WebClient webClient = new WebClient())
         {
             try

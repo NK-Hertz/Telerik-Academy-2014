@@ -15,30 +15,27 @@ class Downloader
         Console.WriteLine("Enter name for your file: ");
         string fileName = Console.ReadLine();
 
-        WebClient webClient = new WebClient();
-
-        try
+        using (WebClient webClient = new WebClient())
         {
-            webClient.DownloadFile(url, fileName);
-            Console.WriteLine("Download complete!");
+            try
+            {
+                webClient.DownloadFile(url, fileName);
+                Console.WriteLine("Download complete!");
+            }
+            catch (ArgumentNullException)
+            {
+                Console.WriteLine("Either adress parameter is null or filename parameter is null!");
+            }
+            catch (WebException)
+            {
+                Console.WriteLine("The URI adress is invalid,filename is null or empty or an error occurred while downloading data!");
+            }
+            catch (NotSupportedException)
+            {
+                Console.WriteLine("The method has been called simultaneously on multiple threads.");
+            }
         }
-        catch (ArgumentNullException)
-        {
-            Console.WriteLine("Either adress parameter is null or filename parameter is null!");
-        }
-        catch (WebException)
-        {
-            Console.WriteLine("The URI adress is invalid,filename is null or empty or an error occurred while downloading data!");
-        }
-        catch (NotSupportedException)
-        {
-            Console.WriteLine("The method has been called simultaneously on multiple threads.");
-        }
-        finally
-        {
-            //osvobojdavame zaetite ot nas resursi
-            webClient.Dispose();
-        }
+        
 
     }
 

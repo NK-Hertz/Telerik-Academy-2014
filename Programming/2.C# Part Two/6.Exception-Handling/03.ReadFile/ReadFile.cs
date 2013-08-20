@@ -62,7 +62,5 @@ class ReadFile
         {
             Console.WriteLine("You don`t have the required permission to access this resource.");
         }
-
-
     }
 }

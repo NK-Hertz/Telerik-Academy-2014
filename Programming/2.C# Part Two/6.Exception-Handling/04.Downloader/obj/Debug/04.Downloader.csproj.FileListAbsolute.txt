@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\04.Downloader\bin\Debug\04.Downloader.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\04.Downloader\obj\Debug\04.Downloader.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\04.Downloader\bin\Debug\04.Downloader.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\04.Downloader\bin\Debug\04.Downloader.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\04.Downloader\obj\Debug\04.Downloader.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\6.Exception-Handling\04.Downloader\obj\Debug\04.Downloader.pdb

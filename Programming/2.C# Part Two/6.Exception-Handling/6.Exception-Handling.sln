@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TenNumbers", "02.TenNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ReadFile", "03.ReadFile\03.ReadFile.csproj", "{139A6084-D640-47FB-A834-60B290A10223}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Downloader", "04.Downloader\04.Downloader.csproj", "{C2DB2E9F-82D7-40C9-ACB5-F8257ABBF4E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{139A6084-D640-47FB-A834-60B290A10223}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{139A6084-D640-47FB-A834-60B290A10223}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{139A6084-D640-47FB-A834-60B290A10223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DB2E9F-82D7-40C9-ACB5-F8257ABBF4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DB2E9F-82D7-40C9-ACB5-F8257ABBF4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DB2E9F-82D7-40C9-ACB5-F8257ABBF4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DB2E9F-82D7-40C9-ACB5-F8257ABBF4E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

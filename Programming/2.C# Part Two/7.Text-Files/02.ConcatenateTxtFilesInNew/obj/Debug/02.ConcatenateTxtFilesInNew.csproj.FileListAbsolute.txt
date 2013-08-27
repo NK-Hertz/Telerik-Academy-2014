@@ -3,3 +3,4 @@ D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\02.ConcatenateTxtFiles
 D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\02.ConcatenateTxtFilesInNew\bin\Debug\02.ConcatenateTxtFilesInNew.pdb
 D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\02.ConcatenateTxtFilesInNew\obj\Debug\02.ConcatenateTxtFilesInNew.exe
 D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\02.ConcatenateTxtFilesInNew\obj\Debug\02.ConcatenateTxtFilesInNew.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\02.ConcatenateTxtFilesInNew\obj\Debug\02.ConcatenateTxtFilesInNew.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\04.LineComparer\bin\Debug\04.LineComparer.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\04.LineComparer\bin\Debug\04.LineComparer.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\04.LineComparer\bin\Debug\04.LineComparer.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\04.LineComparer\obj\Debug\04.LineComparer.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\04.LineComparer\obj\Debug\04.LineComparer.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\04.LineComparer\obj\Debug\04.LineComparer.pdb

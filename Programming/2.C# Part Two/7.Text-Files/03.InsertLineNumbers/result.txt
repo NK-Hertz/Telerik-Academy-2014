@@ -1,0 +1,27 @@
+LineNumber [1] using System;
+LineNumber [2] using System.IO;
+LineNumber [3] 
+LineNumber [4] /* Write a program that reads a text file and inserts line numbers in front of each of 
+LineNumber [5]  * its lines. The result should be written to another text file.
+LineNumber [6] */
+LineNumber [7] class Program
+LineNumber [8] {
+LineNumber [9]     static void Main()
+LineNumber [10]     {
+LineNumber [11]         using (StreamWriter writer = new StreamWriter(@"..\..\result.txt"))
+LineNumber [12]         {
+LineNumber [13]             int lineNum = 1;
+LineNumber [14]             using (StreamReader reader = new StreamReader(@"..\..\InsertLineNumbers.cs"))
+LineNumber [15]             {
+LineNumber [16]                 string line = reader.ReadLine();
+LineNumber [17]                 while (line != null)
+LineNumber [18]                 {
+LineNumber [19]                     writer.Write("LineNumber [{0}] ", lineNum);
+LineNumber [20]                     writer.WriteLine(line);
+LineNumber [21]                     lineNum++;
+LineNumber [22]                     line = reader.ReadLine();
+LineNumber [23]                 }
+LineNumber [24]             }
+LineNumber [25]         }
+LineNumber [26]     }
+LineNumber [27] }

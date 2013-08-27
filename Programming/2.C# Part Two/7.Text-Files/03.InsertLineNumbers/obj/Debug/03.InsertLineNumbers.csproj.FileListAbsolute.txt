@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb

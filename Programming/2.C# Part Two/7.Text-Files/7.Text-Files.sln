@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PrintOddLines", "01.PrintOddLines\01.PrintOddLines.csproj", "{DACAF6E7-6A5C-4538-8780-6D8FAC804707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ConcatenateTxtFilesInNew", "02.ConcatenateTxtFilesInNew\02.ConcatenateTxtFilesInNew.csproj", "{9EF8913C-D6BB-4A02-B5B2-66481DDE3B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACAF6E7-6A5C-4538-8780-6D8FAC804707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACAF6E7-6A5C-4538-8780-6D8FAC804707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACAF6E7-6A5C-4538-8780-6D8FAC804707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACAF6E7-6A5C-4538-8780-6D8FAC804707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF8913C-D6BB-4A02-B5B2-66481DDE3B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF8913C-D6BB-4A02-B5B2-66481DDE3B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF8913C-D6BB-4A02-B5B2-66481DDE3B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF8913C-D6BB-4A02-B5B2-66481DDE3B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

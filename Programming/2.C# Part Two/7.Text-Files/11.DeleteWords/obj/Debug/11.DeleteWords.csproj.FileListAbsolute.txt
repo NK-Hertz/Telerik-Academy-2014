@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\11.DeleteWords\bin\Debug\11.DeleteWords.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\11.DeleteWords\obj\Debug\11.DeleteWords.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\11.DeleteWords\bin\Debug\11.DeleteWords.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\11.DeleteWords\bin\Debug\11.DeleteWords.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\11.DeleteWords\obj\Debug\11.DeleteWords.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\11.DeleteWords\obj\Debug\11.DeleteWords.pdb

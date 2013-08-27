@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\07.ReplaceSubstring\obj\Debug\07.ReplaceSubstring.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\07.ReplaceSubstring\obj\Debug\07.ReplaceSubstring.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\07.ReplaceSubstring\obj\Debug\07.ReplaceSubstring.pdb

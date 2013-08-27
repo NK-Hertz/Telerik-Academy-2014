@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\08.ReplaceWords\bin\Debug\08.ReplaceWords.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\08.ReplaceWords\bin\Debug\08.ReplaceWords.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\08.ReplaceWords\bin\Debug\08.ReplaceWords.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\08.ReplaceWords\obj\Debug\08.ReplaceWords.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\08.ReplaceWords\obj\Debug\08.ReplaceWords.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\08.ReplaceWords\obj\Debug\08.ReplaceWords.csprojResolveAssemblyReference.cache

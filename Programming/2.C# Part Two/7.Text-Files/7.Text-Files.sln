@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ReplaceWords", "08.Repla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.DeleteWords", "11.DeleteWords\11.DeleteWords.csproj", "{FA4DEB82-8B1E-40A4-8AB5-99CEFACAD9E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.RemoveWordsFromList", "12.RemoveWordsFromList\12.RemoveWordsFromList.csproj", "{09463CB1-0FF5-4273-92D3-9DF2AB17B903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.WordCounterFromFiles", "13.WordCounterFromFiles\13.WordCounterFromFiles.csproj", "{F76CEAA2-4DA2-419E-AD66-959840C9153E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,14 @@ Global
 		{FA4DEB82-8B1E-40A4-8AB5-99CEFACAD9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA4DEB82-8B1E-40A4-8AB5-99CEFACAD9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA4DEB82-8B1E-40A4-8AB5-99CEFACAD9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09463CB1-0FF5-4273-92D3-9DF2AB17B903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09463CB1-0FF5-4273-92D3-9DF2AB17B903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09463CB1-0FF5-4273-92D3-9DF2AB17B903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09463CB1-0FF5-4273-92D3-9DF2AB17B903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76CEAA2-4DA2-419E-AD66-959840C9153E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76CEAA2-4DA2-419E-AD66-959840C9153E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76CEAA2-4DA2-419E-AD66-959840C9153E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76CEAA2-4DA2-419E-AD66-959840C9153E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

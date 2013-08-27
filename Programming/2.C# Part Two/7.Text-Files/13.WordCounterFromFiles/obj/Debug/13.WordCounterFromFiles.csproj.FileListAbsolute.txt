@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\13.WordCounterFromFiles\bin\Debug\13.WordCounterFromFiles.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\13.WordCounterFromFiles\bin\Debug\13.WordCounterFromFiles.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\13.WordCounterFromFiles\bin\Debug\13.WordCounterFromFiles.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\13.WordCounterFromFiles\obj\Debug\13.WordCounterFromFiles.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\13.WordCounterFromFiles\obj\Debug\13.WordCounterFromFiles.pdb

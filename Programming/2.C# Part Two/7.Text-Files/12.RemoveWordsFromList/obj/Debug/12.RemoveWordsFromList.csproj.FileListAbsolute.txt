@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\12.RemoveWordsFromList\bin\Debug\12.RemoveWordsFromList.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\12.RemoveWordsFromList\bin\Debug\12.RemoveWordsFromList.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\12.RemoveWordsFromList\bin\Debug\12.RemoveWordsFromList.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\12.RemoveWordsFromList\obj\Debug\12.RemoveWordsFromList.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\7.Text-Files\12.RemoveWordsFromList\obj\Debug\12.RemoveWordsFromList.pdb

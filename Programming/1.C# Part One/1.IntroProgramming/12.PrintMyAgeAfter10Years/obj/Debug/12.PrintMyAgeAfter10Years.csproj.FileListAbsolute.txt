@@ -3,3 +3,8 @@ D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyA
 D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyAgeAfter10Years.pdb
 D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\obj\Debug\12.PrintMyAgeAfter10Years.exe
 D:\Telerik\C#\1.IntroProgramming\12.PrintMyAgeAfter10Years\obj\Debug\12.PrintMyAgeAfter10Years.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyAgeAfter10Years.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyAgeAfter10Years.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\12.PrintMyAgeAfter10Years\bin\Debug\12.PrintMyAgeAfter10Years.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\12.PrintMyAgeAfter10Years\obj\Debug\12.PrintMyAgeAfter10Years.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\12.PrintMyAgeAfter10Years\obj\Debug\12.PrintMyAgeAfter10Years.pdb

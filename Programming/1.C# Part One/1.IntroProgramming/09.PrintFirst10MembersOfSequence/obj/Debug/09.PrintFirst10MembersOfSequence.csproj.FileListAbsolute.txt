@@ -3,3 +3,8 @@ D:\Telerik\C#\1.IntroProgramming\09.PrintFirst10MembersOfSequence\bin\Debug\09.P
 D:\Telerik\C#\1.IntroProgramming\09.PrintFirst10MembersOfSequence\bin\Debug\09.PrintFirst10MembersOfSequence.pdb
 D:\Telerik\C#\1.IntroProgramming\09.PrintFirst10MembersOfSequence\obj\Debug\09.PrintFirst10MembersOfSequence.exe
 D:\Telerik\C#\1.IntroProgramming\09.PrintFirst10MembersOfSequence\obj\Debug\09.PrintFirst10MembersOfSequence.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\09.PrintFirst10MembersOfSequence\bin\Debug\09.PrintFirst10MembersOfSequence.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\09.PrintFirst10MembersOfSequence\bin\Debug\09.PrintFirst10MembersOfSequence.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\09.PrintFirst10MembersOfSequence\bin\Debug\09.PrintFirst10MembersOfSequence.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\09.PrintFirst10MembersOfSequence\obj\Debug\09.PrintFirst10MembersOfSequence.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\09.PrintFirst10MembersOfSequence\obj\Debug\09.PrintFirst10MembersOfSequence.pdb

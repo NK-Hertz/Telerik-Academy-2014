@@ -4,3 +4,9 @@ D:\Telerik\C#\1.IntroProgramming\02.HelloCSharp\bin\Debug\02.HelloCSharp.pdb
 D:\Telerik\C#\1.IntroProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.csprojResolveAssemblyReference.cache
 D:\Telerik\C#\1.IntroProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.exe
 D:\Telerik\C#\1.IntroProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\02.HelloCSharp\bin\Debug\02.HelloCSharp.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\02.HelloCSharp\bin\Debug\02.HelloCSharp.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\02.HelloCSharp\bin\Debug\02.HelloCSharp.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.csprojResolveAssemblyReference.cache

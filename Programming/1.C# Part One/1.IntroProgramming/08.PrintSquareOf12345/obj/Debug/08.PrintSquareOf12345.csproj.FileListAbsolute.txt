@@ -3,3 +3,8 @@ D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareO
 D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareOf12345.pdb
 D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\obj\Debug\08.PrintSquareOf12345.exe
 D:\Telerik\C#\1.IntroProgramming\08.PrintSquareOf12345\obj\Debug\08.PrintSquareOf12345.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareOf12345.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareOf12345.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\08.PrintSquareOf12345\bin\Debug\08.PrintSquareOf12345.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\08.PrintSquareOf12345\obj\Debug\08.PrintSquareOf12345.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\08.PrintSquareOf12345\obj\Debug\08.PrintSquareOf12345.pdb

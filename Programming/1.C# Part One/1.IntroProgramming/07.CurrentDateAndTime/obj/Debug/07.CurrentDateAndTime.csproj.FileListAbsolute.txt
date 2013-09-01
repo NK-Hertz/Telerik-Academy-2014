@@ -3,3 +3,8 @@ D:\Telerik\C#\1.IntroProgramming\07.CurrentDateAndTime\bin\Debug\07.CurrentDateA
 D:\Telerik\C#\1.IntroProgramming\07.CurrentDateAndTime\bin\Debug\07.CurrentDateAndTime.pdb
 D:\Telerik\C#\1.IntroProgramming\07.CurrentDateAndTime\obj\Debug\07.CurrentDateAndTime.exe
 D:\Telerik\C#\1.IntroProgramming\07.CurrentDateAndTime\obj\Debug\07.CurrentDateAndTime.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\07.CurrentDateAndTime\bin\Debug\07.CurrentDateAndTime.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\07.CurrentDateAndTime\bin\Debug\07.CurrentDateAndTime.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\07.CurrentDateAndTime\bin\Debug\07.CurrentDateAndTime.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\07.CurrentDateAndTime\obj\Debug\07.CurrentDateAndTime.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\07.CurrentDateAndTime\obj\Debug\07.CurrentDateAndTime.pdb

@@ -4,3 +4,9 @@ D:\Telerik\C#\1.IntroProgramming\06.PrintFirstAndLastName\bin\Debug\06.PrintFirs
 D:\Telerik\C#\1.IntroProgramming\06.PrintFirstAndLastName\obj\Debug\06.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
 D:\Telerik\C#\1.IntroProgramming\06.PrintFirstAndLastName\obj\Debug\06.PrintFirstAndLastName.exe
 D:\Telerik\C#\1.IntroProgramming\06.PrintFirstAndLastName\obj\Debug\06.PrintFirstAndLastName.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\06.PrintFirstAndLastName\bin\Debug\06.PrintFirstAndLastName.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\06.PrintFirstAndLastName\bin\Debug\06.PrintFirstAndLastName.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\06.PrintFirstAndLastName\bin\Debug\06.PrintFirstAndLastName.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\06.PrintFirstAndLastName\obj\Debug\06.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\06.PrintFirstAndLastName\obj\Debug\06.PrintFirstAndLastName.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\06.PrintFirstAndLastName\obj\Debug\06.PrintFirstAndLastName.pdb

@@ -3,3 +3,9 @@ D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.exe
 D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.pdb
 D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.exe
 D:\Telerik\C#\1.IntroProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.pdb

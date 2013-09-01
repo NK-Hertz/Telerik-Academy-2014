@@ -3,3 +3,8 @@ D:\Telerik\C#\1.IntroProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
 D:\Telerik\C#\1.IntroProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
 D:\Telerik\C#\1.IntroProgramming\04.PrintNumbers\obj\Debug\04.PrintNumbers.exe
 D:\Telerik\C#\1.IntroProgramming\04.PrintNumbers\obj\Debug\04.PrintNumbers.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\04.PrintNumbers\obj\Debug\04.PrintNumbers.exe
+D:\Telerik-Academy\Programming\1.C# Part One\1.IntroProgramming\04.PrintNumbers\obj\Debug\04.PrintNumbers.pdb

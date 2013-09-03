@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\19.ExtractDates\bin\Debug\19.ExtractDates.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\19.ExtractDates\obj\Debug\19.ExtractDates.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\19.ExtractDates\obj\Debug\19.ExtractDates.pdb

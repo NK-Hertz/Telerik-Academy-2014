@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\24.PrintInAlphabeticalOrder\bin\Debug\24.PrintInAlphabeticalOrder.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\24.PrintInAlphabeticalOrder\bin\Debug\24.PrintInAlphabeticalOrder.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\24.PrintInAlphabeticalOrder\bin\Debug\24.PrintInAlphabeticalOrder.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\24.PrintInAlphabeticalOrder\obj\Debug\24.PrintInAlphabeticalOrder.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\24.PrintInAlphabeticalOrder\obj\Debug\24.PrintInAlphabeticalOrder.pdb

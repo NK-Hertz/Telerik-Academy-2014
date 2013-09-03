@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\22.PrintWordsAndInfo\bin\Debug\22.PrintWordsAndInfo.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\22.PrintWordsAndInfo\bin\Debug\22.PrintWordsAndInfo.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\22.PrintWordsAndInfo\bin\Debug\22.PrintWordsAndInfo.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\22.PrintWordsAndInfo\obj\Debug\22.PrintWordsAndInfo.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\22.PrintWordsAndInfo\obj\Debug\22.PrintWordsAndInfo.pdb

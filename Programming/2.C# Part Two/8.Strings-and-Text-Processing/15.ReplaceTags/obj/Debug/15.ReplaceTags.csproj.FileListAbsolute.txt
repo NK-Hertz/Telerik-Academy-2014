@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

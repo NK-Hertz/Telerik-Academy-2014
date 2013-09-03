@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\08.ExtractSentences\obj\Debug\08.ExtractSentences.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\08.ExtractSentences\obj\Debug\08.ExtractSentences.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\08.ExtractSentences\obj\Debug\08.ExtractSentences.pdb

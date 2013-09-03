@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\11.PrintAs\bin\Debug\11.PrintAs.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\11.PrintAs\bin\Debug\11.PrintAs.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\11.PrintAs\bin\Debug\11.PrintAs.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\11.PrintAs\obj\Debug\11.PrintAs.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\11.PrintAs\obj\Debug\11.PrintAs.pdb

@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\12.ParseAndExtract\bin\Debug\12.ParseAndExtract.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\12.ParseAndExtract\bin\Debug\12.ParseAndExtract.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\12.ParseAndExtract\bin\Debug\12.ParseAndExtract.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\12.ParseAndExtract\obj\Debug\12.ParseAndExtract.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\12.ParseAndExtract\obj\Debug\12.ParseAndExtract.pdb

@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\18.ExtractEmails\bin\Debug\18.ExtractEmails.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\18.ExtractEmails\obj\Debug\18.ExtractEmails.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\18.ExtractEmails\obj\Debug\18.ExtractEmails.pdb

@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.pdb

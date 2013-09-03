@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\10.StrToUniCode\bin\Debug\10.StrToUniCode.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\10.StrToUniCode\bin\Debug\10.StrToUniCode.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\10.StrToUniCode\bin\Debug\10.StrToUniCode.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\10.StrToUniCode\obj\Debug\10.StrToUniCode.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\10.StrToUniCode\obj\Debug\10.StrToUniCode.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\10.StrToUniCode\obj\Debug\10.StrToUniCode.pdb

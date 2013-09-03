@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debug\03.BracketChecker.exe.config
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debug\03.BracketChecker.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debug\03.BracketChecker.pdb
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\obj\Debug\03.BracketChecker.exe
+D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\obj\Debug\03.BracketChecker.pdb

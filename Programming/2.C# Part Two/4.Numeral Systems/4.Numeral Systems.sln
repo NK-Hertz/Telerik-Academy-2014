@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FromOneToAnotherNumSys",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SignedIntToBinary", "08.SignedIntToBinary\08.SignedIntToBinary.csproj", "{1E8C6C81-7450-487D-9E2A-870090572986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.FloatingPointBinRep", "09.FloatingPointBinRep\09.FloatingPointBinRep.csproj", "{198C66C9-5716-44D8-A8B2-0CB44C980B07}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,10 +55,6 @@ Global
 		{1E8C6C81-7450-487D-9E2A-870090572986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8C6C81-7450-487D-9E2A-870090572986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8C6C81-7450-487D-9E2A-870090572986}.Release|Any CPU.Build.0 = Release|Any CPU
-		{198C66C9-5716-44D8-A8B2-0CB44C980B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{198C66C9-5716-44D8-A8B2-0CB44C980B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{198C66C9-5716-44D8-A8B2-0CB44C980B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{198C66C9-5716-44D8-A8B2-0CB44C980B07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

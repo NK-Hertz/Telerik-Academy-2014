@@ -3,3 +3,4 @@ D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\02.BinaryToDecima
 D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
 D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
 D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\4.Numeral Systems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.csprojResolveAssemblyReference.cache

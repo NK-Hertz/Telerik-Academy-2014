@@ -4,3 +4,9 @@ D:\Telerik\C# 2\C# 2\03.Methods\01.HelloName\bin\Debug\01.HelloName.pdb
 D:\Telerik\C# 2\C# 2\03.Methods\01.HelloName\obj\Debug\01.HelloName.csprojResolveAssemblyReference.cache
 D:\Telerik\C# 2\C# 2\03.Methods\01.HelloName\obj\Debug\01.HelloName.exe
 D:\Telerik\C# 2\C# 2\03.Methods\01.HelloName\obj\Debug\01.HelloName.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\01.HelloName\bin\Debug\01.HelloName.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\01.HelloName\obj\Debug\01.HelloName.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\01.HelloName\obj\Debug\01.HelloName.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\01.HelloName\bin\Debug\01.HelloName.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\01.HelloName\bin\Debug\01.HelloName.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\01.HelloName\obj\Debug\01.HelloName.csprojResolveAssemblyReference.cache

@@ -1,5 +1,7 @@
 ﻿using System;
-
+/*
+ * Write methods to calculate minimum, maximum, average, sum and product of given set of integer numbers. Use variable number of arguments.
+ */
 class Calculate
 {
     static int Minimum(int[] array)

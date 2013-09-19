@@ -4,3 +4,9 @@ D:\Telerik\C# 2\C# 2\03.Methods\04.NumberInArray\bin\Debug\04.NumberInArray.exe
 D:\Telerik\C# 2\C# 2\03.Methods\04.NumberInArray\bin\Debug\04.NumberInArray.pdb
 D:\Telerik\C# 2\C# 2\03.Methods\04.NumberInArray\obj\Debug\04.NumberInArray.exe
 D:\Telerik\C# 2\C# 2\03.Methods\04.NumberInArray\obj\Debug\04.NumberInArray.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\04.NumberInArray\bin\Debug\04.NumberInArray.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\04.NumberInArray\obj\Debug\04.NumberInArray.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\04.NumberInArray\obj\Debug\04.NumberInArray.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\04.NumberInArray\bin\Debug\04.NumberInArray.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\04.NumberInArray\bin\Debug\04.NumberInArray.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\04.NumberInArray\obj\Debug\04.NumberInArray.csprojResolveAssemblyReference.cache

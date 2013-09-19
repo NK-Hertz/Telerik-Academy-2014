@@ -1,5 +1,7 @@
 ﻿using System;
-
+/*
+ * Write a method that reverses the digits of given decimal number. Example: 256 > 652
+ */
 class DigitReverser
 {
     static string ReverseDigits(char[] array)

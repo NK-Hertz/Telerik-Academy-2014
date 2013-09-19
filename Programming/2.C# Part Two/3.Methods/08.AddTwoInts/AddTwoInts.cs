@@ -1,9 +1,11 @@
 ﻿using System;
-
+/* Doesn`t work correctly!
+ * Write a method that adds two positive integer numbers represented as arrays of digits (each array element arr[i] contains a digit; 
+ * the last digit is kept in arr[0]). Each of the numbers that will be added could have up to 10 000 digits.
+ */
 class AddTwoInts
 {
-    // Tova e variant koito raboti pri ednakuv broi elementi i na 2ta masiva
-    // i ako ne nadminava sbor po golqm ot 99 999 ili po golqm broi devetki
+    // This only works for equal number of elements for the both arrays
     static void AddIntArrays(int[] fstArray, int[] scndArray, int[] resultArray)
     {
         for (int i = 0; i < 1; i++)
@@ -57,22 +59,29 @@ class AddTwoInts
 
         int[] resultArray = new int[lenght];
         AddIntArrays(firstArr, secArr, resultArray);
-        
+
+        Console.WriteLine();
+
         for (int i = 0; i < lenght; i++)
         {
             Console.Write(resultArray[i] + " ");
         }
+
         Console.WriteLine();
         Console.WriteLine("The number the way it is presented");
+
         for (int i = 1; i < lenght; i++)
         {
             Console.Write(resultArray[i] + " ");
         }
+
+        Console.WriteLine();
+        Console.WriteLine("The right looking number");
+
         for (int i = 0; i < 1; i++)
         {
             Console.Write(resultArray[i]);
         }
-        Console.WriteLine();
-        Console.WriteLine("The right looking number");
+        
     }
 }

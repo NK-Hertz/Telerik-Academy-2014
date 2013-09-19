@@ -3,3 +3,8 @@ D:\Telerik\C# 2\C# 2\03.Methods\14.Calculate\bin\Debug\14.Calculate.exe
 D:\Telerik\C# 2\C# 2\03.Methods\14.Calculate\bin\Debug\14.Calculate.pdb
 D:\Telerik\C# 2\C# 2\03.Methods\14.Calculate\obj\Debug\14.Calculate.exe
 D:\Telerik\C# 2\C# 2\03.Methods\14.Calculate\obj\Debug\14.Calculate.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\14.Calculate\bin\Debug\14.Calculate.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\14.Calculate\bin\Debug\14.Calculate.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\14.Calculate\bin\Debug\14.Calculate.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\14.Calculate\obj\Debug\14.Calculate.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\3.Methods\14.Calculate\obj\Debug\14.Calculate.pdb

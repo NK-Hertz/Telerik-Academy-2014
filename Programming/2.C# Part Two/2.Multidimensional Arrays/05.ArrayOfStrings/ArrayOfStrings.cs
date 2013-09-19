@@ -1,9 +1,12 @@
 ﻿using System;
-
+/*
+ * You are given an array of strings. Write a method that sorts the array by the length of its elements (the number of characters composing 
+ * them).
+ */
 class ArrayOfStrings
 {
-    //definiran e tuk za da moje da se izpolzva navsqkude
-    public static int elements;
+    //defined here so it can be used in the methods and in Main()
+    static int elements;
 
     static void CompareStringsNow(string[] myArray)
     {
@@ -21,17 +24,17 @@ class ArrayOfStrings
         elements = int.Parse(Console.ReadLine());
 
         string[] myArray = new string[elements];
-        //vuvejdane na masiva
+        //input array
         for (int i = 0; i < elements; i++)
         {
             Console.WriteLine("Enter {0} element: ",i);
             myArray[i] = Console.ReadLine();
         }
         Console.WriteLine();
-        //izvikvane na metoda
+        //calling method
         CompareStringsNow(myArray);
         Console.WriteLine("The new order is: ");
-        //izpisvane na podredeniq masiv
+        //print ordered array
         for (int i = 0; i < elements; i++)
         {
             Console.WriteLine(myArray[i]);

@@ -4,3 +4,6 @@ D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\03.SequenceInStringMatrix\bin\De
 D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\03.SequenceInStringMatrix\obj\Debug\03.SequenceInStringMatrix.csprojResolveAssemblyReference.cache
 D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\03.SequenceInStringMatrix\obj\Debug\03.SequenceInStringMatrix.exe
 D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\03.SequenceInStringMatrix\obj\Debug\03.SequenceInStringMatrix.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\2.Multidimensional Arrays\03.SequenceInStringMatrix\bin\Debug\03.SequenceInStringMatrix.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\2.Multidimensional Arrays\03.SequenceInStringMatrix\obj\Debug\03.SequenceInStringMatrix.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\2.Multidimensional Arrays\03.SequenceInStringMatrix\obj\Debug\03.SequenceInStringMatrix.pdb

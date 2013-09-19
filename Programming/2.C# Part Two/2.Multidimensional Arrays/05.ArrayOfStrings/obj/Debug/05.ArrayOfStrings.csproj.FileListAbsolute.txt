@@ -4,3 +4,6 @@ D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\05.ArrayOfStrings\bin\Debug\05.A
 D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\05.ArrayOfStrings\obj\Debug\05.ArrayOfStrings.csprojResolveAssemblyReference.cache
 D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\05.ArrayOfStrings\obj\Debug\05.ArrayOfStrings.exe
 D:\Telerik\C# 2\C# 2\02.Multidimensional Arrays\05.ArrayOfStrings\obj\Debug\05.ArrayOfStrings.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\2.Multidimensional Arrays\05.ArrayOfStrings\bin\Debug\05.ArrayOfStrings.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\2.Multidimensional Arrays\05.ArrayOfStrings\obj\Debug\05.ArrayOfStrings.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\2.Multidimensional Arrays\05.ArrayOfStrings\obj\Debug\05.ArrayOfStrings.pdb

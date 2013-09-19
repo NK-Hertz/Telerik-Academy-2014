@@ -1,5 +1,7 @@
 ﻿using System;
-
+/*
+ * Write a program that reads a rectangular matrix of size N x M and finds in it the square 3 x 3 that has maximal sum of its elements.
+ */
 class MaxSum
 {
     static void Main()
@@ -10,7 +12,7 @@ class MaxSum
         int M = int.Parse(Console.ReadLine());
         int[,] matrix = new int[N, M];
         int maxSum = 0;
-        // za random chisla 
+        // for random numbers
         Random rand = new Random();
 
         for (int row = 0; row < matrix.GetLength(0); row++)

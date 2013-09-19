@@ -1,5 +1,8 @@
 ﻿using System;
-
+/*
+ * Write a program that fills and prints a matrix of size (n, n) as shown below: (examples for n = 4)
+ * 
+ */
 class FillAndPrintMatrix
 {
     static void Main()
@@ -10,7 +13,7 @@ class FillAndPrintMatrix
         int num = 1;
         Console.WriteLine("Enter a,b,c or d:");
         char switchIt = char.Parse(Console.ReadLine());
-        // switch case za podusloviq a,b,c,d
+        // switch case for problem a,b,c,d
         switch (switchIt)
         { 
             case 'a':
@@ -43,7 +46,7 @@ class FillAndPrintMatrix
                     }
                     else
                     {
-                        //na vseki necheten red promenq izpisvaneto
+                        //for every odd line switches the output
                         for (int i = N - 1; i >= 0; i--)
                         {
                             array[i, j] = num;
@@ -61,8 +64,8 @@ class FillAndPrintMatrix
                 array[startRow, startCol] = 1;
                 while (num < N * N)
                 {
-                    //za purvata chast,koqto stiga do sredata na matricata
-                    //namalq reda
+                    //for the first part which goes to the middle of the matrix
+                    //decrease row
                     if (col < N - 1)
                     {
                         startRow--;
@@ -71,7 +74,7 @@ class FillAndPrintMatrix
                         col = startCol;
                         num++;
                         array[row, col] = num;
-                        //dokato ne stigne sredata na matricata
+                        //while it reaches to the middle of matrix
                         while (row < N -1)
                         {
                             row++;
@@ -80,8 +83,8 @@ class FillAndPrintMatrix
                             array[row, col] = num;
                         }
                     }
-                    //kato stigne sredata na matricata
-                    //uvelichava kolonata
+                    //when it reaches to the middle
+                    //increase collumn
                     else
                     {
                         startRow = 0;
@@ -90,7 +93,7 @@ class FillAndPrintMatrix
                         col = startCol;
                         num++;
                         array[row, col] = num;
-                        //dokato ne stigne kraq na matricata
+                        //while it reaches end of matrix
                         while (col < N - 1)
                         {
                             row++;

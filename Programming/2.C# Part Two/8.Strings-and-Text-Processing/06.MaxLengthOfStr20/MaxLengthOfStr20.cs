@@ -21,6 +21,13 @@ class MaxLengthOfStr20
             }
             Console.WriteLine(text);
         }
+        else if (lastPostion > maxLength)
+        {
+            Console.WriteLine("You have entered more than 20 chars!");
+
+            text = text.Remove(maxLength);
+            Console.WriteLine(text);
+        }
         else
         {
             Console.WriteLine("Good job!Exactly 20 characters entered!");

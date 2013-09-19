@@ -4,3 +4,9 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\bin\De
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\obj\Debug\06.MaxLengthOfStr20.csprojResolveAssemblyReference.cache
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\obj\Debug\06.MaxLengthOfStr20.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\obj\Debug\06.MaxLengthOfStr20.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\bin\Debug\06.MaxLengthOfStr20.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\obj\Debug\06.MaxLengthOfStr20.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\obj\Debug\06.MaxLengthOfStr20.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\bin\Debug\06.MaxLengthOfStr20.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\bin\Debug\06.MaxLengthOfStr20.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\06.MaxLengthOfStr20\obj\Debug\06.MaxLengthOfStr20.csprojResolveAssemblyReference.cache

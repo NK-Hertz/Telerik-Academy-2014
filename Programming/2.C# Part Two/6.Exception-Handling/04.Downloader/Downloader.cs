@@ -34,6 +34,10 @@ class Downloader
             {
                 Console.WriteLine("The method has been called simultaneously on multiple threads.");
             }
+            catch (ArgumentException)
+            {
+                Console.WriteLine("The path is not of a legal form.");
+            }
         }
         
 

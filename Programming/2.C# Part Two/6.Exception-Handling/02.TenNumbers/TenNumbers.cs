@@ -11,16 +11,16 @@ class TenNumbers
 
     static int ReadNumber(int start, int end)
     {
-        int value;
+        int value = 0;
         try
         {
             Console.WriteLine("Enter number: ");
             value = int.Parse(Console.ReadLine());
             if (value < start || value > end)
             {
-                throw new ArgumentOutOfRangeException(
-                    "Number must be between the given range!");
+                Console.WriteLine("Number must be between the given range!");
             }
+
             if (count == 10)
             {
                 return value;
@@ -28,10 +28,14 @@ class TenNumbers
 
             count++;
         }
+        catch(ArgumentOutOfRangeException fe)
+        {
+            Console.WriteLine("Number must be between the given range!");
+        }
         catch (FormatException fe)
         {
             Console.WriteLine("The input has to be a number!" + fe.Message);
-            throw;
+            throw fe;
         }
 
         return ReadNumber(value, end);

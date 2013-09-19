@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.e
 D:\Telerik\C#\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.pdb
 D:\Telerik\C#\1.Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.exe
 D:\Telerik\C#\1.Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.pdb

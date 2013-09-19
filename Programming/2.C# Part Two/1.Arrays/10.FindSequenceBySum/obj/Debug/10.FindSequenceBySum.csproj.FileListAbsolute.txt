@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\10.FindSequenceBySum\bin\Debug\10.FindSequenceBySum.pdb
 D:\Telerik\C#\1.Arrays\10.FindSequenceBySum\obj\Debug\10.FindSequenceBySum.csprojResolveAssemblyReference.cache
 D:\Telerik\C#\1.Arrays\10.FindSequenceBySum\obj\Debug\10.FindSequenceBySum.exe
 D:\Telerik\C#\1.Arrays\10.FindSequenceBySum\obj\Debug\10.FindSequenceBySum.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\10.FindSequenceBySum\bin\Debug\10.FindSequenceBySum.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\10.FindSequenceBySum\bin\Debug\10.FindSequenceBySum.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\10.FindSequenceBySum\bin\Debug\10.FindSequenceBySum.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\10.FindSequenceBySum\obj\Debug\10.FindSequenceBySum.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\10.FindSequenceBySum\obj\Debug\10.FindSequenceBySum.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\10.FindSequenceBySum\obj\Debug\10.FindSequenceBySum.pdb

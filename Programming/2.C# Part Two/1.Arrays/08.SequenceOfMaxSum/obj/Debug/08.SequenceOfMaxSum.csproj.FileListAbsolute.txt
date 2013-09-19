@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.pdb
 D:\Telerik\C#\1.Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.csprojResolveAssemblyReference.cache
 D:\Telerik\C#\1.Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.exe
 D:\Telerik\C#\1.Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.pdb

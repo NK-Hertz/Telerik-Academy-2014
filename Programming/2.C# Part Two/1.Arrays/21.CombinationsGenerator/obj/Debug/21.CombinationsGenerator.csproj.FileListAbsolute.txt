@@ -3,3 +3,8 @@ D:\Telerik\C#\1.Arrays\21.CombinationsGenerator\bin\Debug\21.CombinationsGenerat
 D:\Telerik\C#\1.Arrays\21.CombinationsGenerator\bin\Debug\21.CombinationsGenerator.pdb
 D:\Telerik\C#\1.Arrays\21.CombinationsGenerator\obj\Debug\21.CombinationsGenerator.exe
 D:\Telerik\C#\1.Arrays\21.CombinationsGenerator\obj\Debug\21.CombinationsGenerator.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\21.CombinationsGenerator\bin\Debug\21.CombinationsGenerator.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\21.CombinationsGenerator\bin\Debug\21.CombinationsGenerator.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\21.CombinationsGenerator\bin\Debug\21.CombinationsGenerator.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\21.CombinationsGenerator\obj\Debug\21.CombinationsGenerator.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\21.CombinationsGenerator\obj\Debug\21.CombinationsGenerator.pdb

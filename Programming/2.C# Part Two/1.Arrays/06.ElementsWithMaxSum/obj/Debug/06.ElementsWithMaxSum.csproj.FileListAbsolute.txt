@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\06.ElementsWithMaxSum\bin\Debug\06.ElementsWithMaxSum.pdb
 D:\Telerik\C#\1.Arrays\06.ElementsWithMaxSum\obj\Debug\06.ElementsWithMaxSum.exe
 D:\Telerik\C#\1.Arrays\06.ElementsWithMaxSum\obj\Debug\06.ElementsWithMaxSum.pdb
 D:\Telerik\C#\1.Arrays\06.ElementsWithMaxSum\obj\Debug\06.ElementsWithMaxSum.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\06.ElementsWithMaxSum\bin\Debug\06.ElementsWithMaxSum.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\06.ElementsWithMaxSum\bin\Debug\06.ElementsWithMaxSum.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\06.ElementsWithMaxSum\bin\Debug\06.ElementsWithMaxSum.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\06.ElementsWithMaxSum\obj\Debug\06.ElementsWithMaxSum.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\06.ElementsWithMaxSum\obj\Debug\06.ElementsWithMaxSum.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\06.ElementsWithMaxSum\obj\Debug\06.ElementsWithMaxSum.pdb

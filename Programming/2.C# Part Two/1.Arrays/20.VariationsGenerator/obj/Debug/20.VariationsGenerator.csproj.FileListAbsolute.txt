@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\20.VariationsGenerator\bin\Debug\20.VariationsGenerator.p
 D:\Telerik\C#\1.Arrays\20.VariationsGenerator\obj\Debug\20.VariationsGenerator.csprojResolveAssemblyReference.cache
 D:\Telerik\C#\1.Arrays\20.VariationsGenerator\obj\Debug\20.VariationsGenerator.exe
 D:\Telerik\C#\1.Arrays\20.VariationsGenerator\obj\Debug\20.VariationsGenerator.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\20.VariationsGenerator\bin\Debug\20.VariationsGenerator.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\20.VariationsGenerator\bin\Debug\20.VariationsGenerator.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\20.VariationsGenerator\bin\Debug\20.VariationsGenerator.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\20.VariationsGenerator\obj\Debug\20.VariationsGenerator.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\20.VariationsGenerator\obj\Debug\20.VariationsGenerator.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\20.VariationsGenerator\obj\Debug\20.VariationsGenerator.pdb

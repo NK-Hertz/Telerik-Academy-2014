@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
 D:\Telerik\C#\1.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
 D:\Telerik\C#\1.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
 D:\Telerik\C#\1.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

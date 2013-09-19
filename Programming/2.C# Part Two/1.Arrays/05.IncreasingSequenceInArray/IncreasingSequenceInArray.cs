@@ -1,5 +1,8 @@
 ﻿using System;
-
+/*
+ * Write a program that finds the maximal increasing sequence in an array. 
+ * Example: {3, 2, 3, 4, 2, 2, 4}  {2, 3, 4}.
+ */
 class IncreasingSequenceInArray
 {
     static void Main()

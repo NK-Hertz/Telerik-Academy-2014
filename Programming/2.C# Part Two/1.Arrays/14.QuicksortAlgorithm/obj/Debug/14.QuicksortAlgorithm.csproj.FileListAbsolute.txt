@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\14.QuicksortAlgorithm\bin\Debug\14.QuicksortAlgorithm.exe
 D:\Telerik\C#\1.Arrays\14.QuicksortAlgorithm\bin\Debug\14.QuicksortAlgorithm.pdb
 D:\Telerik\C#\1.Arrays\14.QuicksortAlgorithm\obj\Debug\14.QuicksortAlgorithm.exe
 D:\Telerik\C#\1.Arrays\14.QuicksortAlgorithm\obj\Debug\14.QuicksortAlgorithm.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\14.QuicksortAlgorithm\bin\Debug\14.QuicksortAlgorithm.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\14.QuicksortAlgorithm\bin\Debug\14.QuicksortAlgorithm.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\14.QuicksortAlgorithm\bin\Debug\14.QuicksortAlgorithm.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\14.QuicksortAlgorithm\obj\Debug\14.QuicksortAlgorithm.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\14.QuicksortAlgorithm\obj\Debug\14.QuicksortAlgorithm.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\14.QuicksortAlgorithm\obj\Debug\14.QuicksortAlgorithm.pdb

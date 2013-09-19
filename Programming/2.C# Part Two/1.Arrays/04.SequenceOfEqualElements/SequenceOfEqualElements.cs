@@ -1,5 +1,8 @@
 ﻿using System;
-
+/*
+ * Write a program that finds the maximal sequence of equal elements in an array.
+		Example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1}  {2, 2, 2}.
+ */
 class SequenceOfEqualElements
 {
     static void Main()

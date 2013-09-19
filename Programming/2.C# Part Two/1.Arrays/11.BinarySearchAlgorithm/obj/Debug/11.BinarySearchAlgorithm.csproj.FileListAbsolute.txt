@@ -4,3 +4,9 @@ D:\Telerik\C#\1.Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorit
 D:\Telerik\C#\1.Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
 D:\Telerik\C#\1.Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.exe
 D:\Telerik\C#\1.Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\1.Arrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.pdb

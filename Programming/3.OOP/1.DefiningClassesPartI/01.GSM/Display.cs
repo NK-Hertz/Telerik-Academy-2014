@@ -2,9 +2,9 @@
 
 class Display
 {
+    //encapsulation
     private uint? size;
     private uint colours;
-
 
     public uint? Size 
     {
@@ -33,6 +33,7 @@ class Display
         }
     }
 
+    //print all information about Display class
     public void Print()
     {
         Console.WriteLine("=========================");

@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Text;
 
+//Add an enumeration BatteryType (Li-Ion, NiMH, NiCd, …) and use it as a new field for the batteries.
 public enum BatteryType
 { 
     LiIon, NiMH,NiCD
@@ -9,6 +10,7 @@ public enum BatteryType
 
 class Battery
 {
+    //encapsulation
     private BatteryType model;
     private double? hoursIdle;
     private double? hoursTalked;
@@ -46,6 +48,7 @@ class Battery
         }
     }
 
+    //print information about Battery Class
     public void Print()
     {
         Console.WriteLine("=========================");
@@ -55,6 +58,7 @@ class Battery
         Console.WriteLine("=========================");
     }
 
+    //Try to override ToString().
     public override string ToString()
     {
         return string.Format("=========================/nBattery Type: {0}/nHours Idle: {1}/nHours Talked: {2}========================="

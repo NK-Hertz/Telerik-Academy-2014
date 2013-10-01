@@ -1,7 +1,11 @@
 ﻿using System;
 
+//Create a class Call to hold a call performed through a GSM. It should contain date, time, 
+//dialed phone number and duration (in seconds).
+
 class Call
 {
+    //encapsulation
     private DateTime date;
     private string time;
     private string dialedPhone;
@@ -38,6 +42,7 @@ class Call
         get { return this.time; }
     }
 
+    //print information for Calls class
     public void PrintCall()
     {
         Console.WriteLine("Dialed number: {0}", dialedPhone);

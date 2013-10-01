@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 class GSM
 {
+    //encapsulation
     private string model;
     private string manufacturer;
     private double price;
@@ -11,7 +12,12 @@ class GSM
     public Battery Battery = new Battery();
     public Display Display = new Display();
 
+    //Try to use the system class List<Call>.
     private List<Call> callHistory = new List<Call>();
+
+
+    //Define several constructors for the defined classes that take different sets of arguments 
+    //Assume that model and manufacturer are mandatory (the others are optional).
 
     public GSM()
     { 
@@ -30,8 +36,9 @@ class GSM
         this.owner = owner; 
     }
 
-    //static
-    public static readonly GSM IPhone4S = new GSM("IPhone 4S", "Apple", 1000, "Veso");
+    //Add a static field and a property IPhone4S in the GSM class to hold the information about iPhone 4S
+    //the field
+    private static readonly GSM iPhone4S = new GSM("IPhone 4S", "Apple", 1000, "Veso");
 
     public string Model 
     {
@@ -80,11 +87,20 @@ class GSM
         set { this.owner = value; }
     }
 
+    //the property
+    public static GSM IPhone4S
+    {
+        get { return iPhone4S; }
+    }
+
+    //Add a property CallHistory in the GSM class to hold a list of the performed calls. 
     public List<Call> CallHistory
     {
         get { return this.callHistory; }
     }
 
+
+    //Add a method in the GSM class for displaying all information about it. 
     public void Print()
     {
         Console.WriteLine();
@@ -95,6 +111,7 @@ class GSM
         Console.WriteLine("=========================");
     }
 
+    //Add methods in the GSM class for adding and deleting calls from the calls history. 
     public void AddCall(string dialedNumber, uint duration)
     {
         Call addNewCall = new Call(dialedNumber, duration);
@@ -113,11 +130,13 @@ class GSM
         }
     }
 
+    //Add a method to clear the call history.
     public void ClearHistory()
     {
         this.callHistory.Clear();
     }
 
+    //Add a method that calculates the total price of the calls in the call history. 
     public double CalcPrice(double pricePerMin)
     {
         uint minutes = 0;
@@ -126,6 +145,7 @@ class GSM
         for (int i = 0; i < this.callHistory.Count; i++)
         {
             minutes += callHistory[i].Duration / 60;
+            //if there are any seconds left it counts it as a minute
             reminder = callHistory[i].Duration % 60;
 
             if (reminder != 0)

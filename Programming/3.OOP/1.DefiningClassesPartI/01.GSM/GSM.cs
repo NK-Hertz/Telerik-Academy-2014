@@ -2,10 +2,10 @@
 
 class GSM
 {
-    public string Model { get; set; }
-    public string Manufacturer { get; set; }
-    public decimal Price { get; set; }
-    public string Owner { get; set; }
+    private string model;
+    private string manufacturer;
+    private double price;
+    private string owner;
 
     public Battery Battery = new Battery();
     public Display Display = new Display();
@@ -14,17 +14,64 @@ class GSM
     { 
     }
 
-    public GSM(string Model, string Manufacturer)
-        : this(Model, Manufacturer, 0, null)
+    public GSM(string model, string manufacturer)
+        : this(model, manufacturer, 0, null)
     { 
     }
 
-    public GSM(string Model, string Manufacturer, decimal Price, string Owner)
+    public GSM(string model, string manufacturer, double price, string owner)
     {
-        this.Model = Model;
-        this.Manufacturer = Manufacturer;
-        this.Price = Price;
-        this.Owner = Owner; 
+        this.model = model;
+        this.manufacturer = manufacturer;
+        this.price = price;
+        this.owner = owner; 
+    }
+
+    public string Model 
+    {
+        get { return this.model; }
+        set 
+        {
+            this.model = value;
+
+            if (string.IsNullOrEmpty(model))
+            {
+                throw new ArgumentException("The model cannot be empty");
+            }
+        }
+    }
+
+    public string Manufacturer 
+    {
+        get { return this.manufacturer; }
+        set 
+        {
+            this.manufacturer = value;
+            if (string.IsNullOrEmpty(manufacturer))
+            {
+                throw new ArgumentException("The manufacturer cannot be empty");
+            }
+        }
+    }
+
+    public double Price
+    {
+        get { return this.price; }
+        set 
+        {
+            this.price = value;
+
+            if (price < 0)
+            {
+                throw new ArgumentException("The price must be a positive!");
+            }
+        }
+    }
+
+    public string Owner
+    {
+        get { return this.owner; }
+        set { this.owner = value; }
     }
 
     public void Print()

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class GSM
 {
@@ -9,6 +10,8 @@ class GSM
 
     public Battery Battery = new Battery();
     public Display Display = new Display();
+
+    private List<Call> callHistory = new List<Call>();
 
     public GSM()
     { 
@@ -26,6 +29,9 @@ class GSM
         this.price = price;
         this.owner = owner; 
     }
+
+    //static
+    public static readonly GSM IPhone4S = new GSM("IPhone 4S", "Apple", 1000, "Veso");
 
     public string Model 
     {
@@ -74,6 +80,11 @@ class GSM
         set { this.owner = value; }
     }
 
+    public List<Call> CallHistory
+    {
+        get { return this.callHistory; }
+    }
+
     public void Print()
     {
         Console.WriteLine();
@@ -83,4 +94,47 @@ class GSM
         Console.WriteLine("Owner: {0}",this.Owner);
         Console.WriteLine("=========================");
     }
+
+    public void AddCall(string dialedNumber, uint duration)
+    {
+        Call addNewCall = new Call(dialedNumber, duration);
+        this.callHistory.Add(addNewCall);
+    }
+
+    public void DeleteCall(int index)
+    {
+        if (index < this.callHistory.Count && index > -1)
+        {
+            this.callHistory.RemoveAt(index);
+        }
+        else
+        {
+            throw new ArgumentException("The index must be real!");
+        }
+    }
+
+    public void ClearHistory()
+    {
+        this.callHistory.Clear();
+    }
+
+    public double CalcPrice(double pricePerMin)
+    {
+        uint minutes = 0;
+        uint reminder = 0;
+
+        for (int i = 0; i < this.callHistory.Count; i++)
+        {
+            minutes += callHistory[i].Duration / 60;
+            reminder = callHistory[i].Duration % 60;
+
+            if (reminder != 0)
+            {
+                minutes++;
+            }
+        }
+
+        return minutes * pricePerMin;
+    }
+
 }

@@ -1,0 +1,6 @@
+D:\Telerik-Academy\Programming\3.OOP\1.DefiningClassesPartI\01.GSM\bin\Debug\01.GSM.exe.config
+D:\Telerik-Academy\Programming\3.OOP\1.DefiningClassesPartI\01.GSM\obj\Debug\01.GSMExample.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\3.OOP\1.DefiningClassesPartI\01.GSM\bin\Debug\01.GSM.exe
+D:\Telerik-Academy\Programming\3.OOP\1.DefiningClassesPartI\01.GSM\bin\Debug\01.GSM.pdb
+D:\Telerik-Academy\Programming\3.OOP\1.DefiningClassesPartI\01.GSM\obj\Debug\01.GSM.exe
+D:\Telerik-Academy\Programming\3.OOP\1.DefiningClassesPartI\01.GSM\obj\Debug\01.GSM.pdb

@@ -12,4 +12,6 @@ class Display
         Console.WriteLine("Colours: {0}", this.Colours);
         Console.WriteLine();
     }
+
+
 }

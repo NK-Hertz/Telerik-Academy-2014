@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Text;
 
 public enum BatteryType
 { 
@@ -12,12 +13,14 @@ class Battery
     public double? HoursIdle { get; set; }
     public double? HoursTalked { get; set; }
 
-    public void Print()
+    public override string ToString()
     {
+        StringBuilder endText = new StringBuilder();
         Console.WriteLine("=========================");
-        Console.WriteLine("Battery Model: {0}", this.Model);
-        Console.WriteLine("Hours Idle: {0}", this.HoursIdle);
-        Console.WriteLine("Hours Talked: {0}", this.HoursTalked);
+        Console.WriteLine("Battery Type: " + this.Model.ToString());
+        Console.WriteLine("Hours Idle: " + this.HoursIdle.ToString());
+        Console.WriteLine("Hours Talked: " + this.HoursTalked.ToString());
         Console.WriteLine("=========================");
+        return endText.ToString();
     }
 }

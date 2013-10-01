@@ -30,23 +30,24 @@ class GSMExample
         firstGSM.Manufacturer = "Samsung";
         firstGSM.Price = 899;
         firstGSM.Owner = "The Owner";
-        firstGSM.Battery.Model = BatteryType.LiIon;
+        firstGSM.Battery.Model = BatteryType.NiCD;
         firstGSM.Battery.HoursIdle = 216.5;
         firstGSM.Battery.HoursTalked = 15.5;
         firstGSM.Display.Size = 11;
         firstGSM.Display.Colours = "16M";
         
         firstGSM.Print();
-        firstGSM.Battery.Print();
+        firstGSM.Battery.ToString();
         firstGSM.Display.Print();
 
         GSM newGSM = new GSM("IPhone","Apple");
 
         newGSM.Print();
-        newGSM.Battery.Print();
+        newGSM.Battery.ToString();
         newGSM.Display.Print();
 
         GSM thirdGSM = new GSM("Phone", "Manufact", 106, "Over");
         thirdGSM.Print();
+
     }
 }

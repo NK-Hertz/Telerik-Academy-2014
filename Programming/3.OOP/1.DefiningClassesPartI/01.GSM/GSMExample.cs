@@ -14,8 +14,8 @@ class GSMExample
         //Console.WriteLine("Enter owner: ");
         //firstGSM.Owner = Console.ReadLine();
 
-        //Console.WriteLine("Enter battery model: ");
-        //firstGSM.Battery.Model = Console.ReadLine();
+        //Console.WriteLine("Enter battery model between Li-Ion,NiMH,NiCD(0-2): ");
+        //firstGSM.Battery.Model = (BatteryType)int.Parse(Console.ReadLine());
         //Console.WriteLine("Enter hours idle: ");
         //firstGSM.Battery.HoursIdle = double.Parse(Console.ReadLine());
         //Console.WriteLine("Enter hours talked: ");
@@ -30,7 +30,7 @@ class GSMExample
         firstGSM.Manufacturer = "Samsung";
         firstGSM.Price = 899;
         firstGSM.Owner = "The Owner";
-        firstGSM.Battery.Model = "LiIon";
+        firstGSM.Battery.Model = BatteryType.LiIon;
         firstGSM.Battery.HoursIdle = 216.5;
         firstGSM.Battery.HoursTalked = 15.5;
         firstGSM.Display.Size = 11;

@@ -1,8 +1,14 @@
 ﻿using System;
+using System.ComponentModel;
+
+public enum BatteryType
+{ 
+    LiIon, NiMH,NiCD
+}
 
 class Battery
 {
-    public string Model { get; set; }
+    public BatteryType Model { get;set; }
     public double? HoursIdle { get; set; }
     public double? HoursTalked { get; set; }
 

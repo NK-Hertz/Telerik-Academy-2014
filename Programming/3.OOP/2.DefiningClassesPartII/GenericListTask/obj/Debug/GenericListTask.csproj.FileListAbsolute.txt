@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\GenericListTask\bin\Debug\GenericListTask.exe.config
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\GenericListTask\bin\Debug\GenericListTask.exe
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\GenericListTask\bin\Debug\GenericListTask.pdb
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\GenericListTask\obj\Debug\GenericListTask.exe
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\GenericListTask\obj\Debug\GenericListTask.pdb

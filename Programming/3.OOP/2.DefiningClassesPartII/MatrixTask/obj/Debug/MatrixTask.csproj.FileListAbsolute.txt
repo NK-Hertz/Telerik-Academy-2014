@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\MatrixTask\bin\Debug\MatrixTask.exe.config
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\MatrixTask\bin\Debug\MatrixTask.exe
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\MatrixTask\bin\Debug\MatrixTask.pdb
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\MatrixTask\obj\Debug\MatrixTask.exe
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\MatrixTask\obj\Debug\MatrixTask.pdb

@@ -1,0 +1,5 @@
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Point3D\bin\Debug\Point3D.exe.config
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Point3D\bin\Debug\Point3D.exe
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Point3D\bin\Debug\Point3D.pdb
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Point3D\obj\Debug\Point3D.exe
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Point3D\obj\Debug\Point3D.pdb

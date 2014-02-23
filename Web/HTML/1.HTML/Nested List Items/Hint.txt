@@ -1,0 +1,4 @@
+Тъй като в HTML5 не се поддържа
+type за ul, аз използвам атрибут
+за стилизиране от CSS: 
+style="list-style-type: circle;"

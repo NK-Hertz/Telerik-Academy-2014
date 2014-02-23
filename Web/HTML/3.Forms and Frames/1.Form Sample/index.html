@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Form Sample</title>
+    <style>
+        tr > td:first-child 
+        {
+            font-weight:bold;
+            text-align:right;
+            width:200px;
+        }
+
+        #submitReset 
+        {
+            text-align:center !important;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <table border="1">
+            <tr>
+                <td><label for="lastName">Last Name</label></td>
+                <td><input type="text" id="lastName" placeholder="Nakov" /></td>
+            </tr>
+            <tr>
+                <td><label for="firstName">First Name</label></td>
+                <td><input type="text" id="firstName" placeholder="Svetlin" /></td>
+            </tr>
+            <tr>
+                <td><label for="adress">Adress</label></td>
+                <td><textarea id="adress" placeholder="17 Hristo Botev Str. floor 3, apt. 12"></textarea></td>
+            </tr>
+            <tr>
+                <td><label for="city">City</label></td>
+                <td>
+                    <input type="text" id="city" placeholder="Kaspichan"/>
+                    <label for="state">State</label>
+                    <input type="text" id="state" />
+                </td>
+            </tr>
+            <tr>
+                <td><label for="zip/post">Zip/Postal Code</label></td>
+                <td><input type="text" id="zip/post" placeholder="9325"/></td>
+            </tr>
+            <tr>
+                <td><label for="country">Country</label></td>
+                <td>
+                    <select name="country" id="country">
+                        <option value="Bulgaria" selected="selected">Bulgaria</option>
+                        <option value="Greece">Greece</option>
+                        <option value="Japan">Japan</option>
+                        <option value="Mars">Mars</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="phone">Phone(country code, area code, number)</label></td>
+                <td>
+                    {+ <input type="tel" id="phone" placeholder="359" />}
+                    <input type="tel" placeholder="88" />
+                    <input type="tel" placeholder="8334343" />
+                </td>
+            </tr>
+            <tr>
+                <td><label for="email">E-mail:</label></td>
+                <td><input type="email" id="email" placeholder="nakov@kaspichan.org" 
+                           pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" /></td>
+            </tr>
+            <tr>
+                <td><label for="month">Birth date</label></td>
+                <td>
+                    <label for="month">Month</label>
+                    <input type="text" id="month" placeholder="06" />
+                    <label for="day">Day</label>
+                    <input type="text" id="day" placeholder="14" />
+                    <label for="year">Year (4 digits)</label>
+                    <input type="text" id="year" placeholder="1980" />
+                </td>
+            </tr>
+            <tr>
+                <td><label for="gender">Gender</label></td>
+                <td>
+                    <select id="gender" name="gender">
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td >Starting date</td>
+                <td>
+                    <input type="radio" name="startDate" id="spring"/>
+                    <label for="spring">Spring 2006</label>
+                    <input type="radio" name="startDate" id="summer" />
+                    <label for="summer">Summer 2006</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="comments">Comments/Questions</label></td>
+                <td><textarea id="comments" placeholder="Please send more any questions you might have"></textarea></td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color:aquamarine" id="submitReset">
+                    <input type="submit" />
+                    <input type="reset" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

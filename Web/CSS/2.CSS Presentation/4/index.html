@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculator</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+	<div id="main">
+	<img src="img/calc.png" id="calcIcon"/>
+	Calculator
+	<img src="img/topright.png" id="MinMaxClose"/>
+    <div id="menu"><ul><li>View</li><li>Edit</li><li>Help</li></ul></div>
+    <div id="calc">
+    <div id="display">8854455</div>
+    <table id="inputKeys">
+        <tr>
+            <td>0000</td>
+            <td>0000</td>
+            <td>0000</td>
+            <td>0000</td>
+            <td>0000</td>
+            <td>0000</td>
+            <td>0000</td>
+            <td>0000</td>
+        </tr>
+        <tr>
+            <td>63</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>47</td>
+            <td></td>
+            <td></td>
+            <td>32</td>
+        </tr>
+        <tr>
+            <td>0000</td>
+            <td>0000</td>
+            <td>1000</td>
+            <td>0111</td>
+            <td>0001</td>
+            <td>1011</td>
+            <td>1011</td>
+            <td>0111</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>15</td>
+            <td></td>
+            <td></td>
+            <td>0</td>
+        </tr>
+    </table>
+    <table style="padding:3px;" id="pressB">
+        <tbody>
+            <tr>
+                <td rowspan="3" class="typeNum">
+                    <form>
+                        <input type="radio" id="hex" name="typeNum"/>
+                        <label for="hex">Hex</label>
+                        <br />
+                        <input type="radio" id="dec" name="typeNum" checked="checked"/>
+                        <label for="dec">Dec</label>
+                        <br />
+                        <input type="radio" id="oct" name="typeNum"/>
+                        <label for="oct">Oct</label>
+                        <br />
+                        <input type="radio" id="bin" name="typeNum"/>
+                        <label for="bin">Bin</label>
+                    </form>
+                </td>
+                <td><button disabled="disabled"></button></td>
+                <td><button>Mod</button></td>
+                <td><button disabled="disabled">A</button></td>
+                <td><button disabled="disabled">MC</button></td>
+                <td><button disabled="disabled">MR</button></td>
+                <td><button disabled="disabled">MS</button></td>
+                <td><button disabled="disabled">M+</button></td>
+                <td><button disabled="disabled">M-</button></td>
+            </tr>
+            <tr>
+                <td><button>(</button></td>
+                <td><button>)</button></td>
+                <td><button disabled="disabled">B</button></td>
+                <td><button>←</button></td>
+                <td><button>CE</button></td>
+                <td><button>C</button></td>
+                <td><button>±</button></td>
+                <td><button disabled="disabled">√</button></td>
+            </tr>
+            <tr>
+                <td><button>Rol</button></td>
+                <td><button>RoR</button></td>
+                <td><button disabled="disabled">C</button></td>
+                <td><button class="Buttons">7</button></td>
+                <td><button class="Buttons">8</button></td>
+                <td><button class="Buttons">9</button></td>
+                <td><button>/</button></td>
+                <td><button disabled="disabled">%</button></td>
+            </tr>
+            <tr>
+                <td rowspan="3" class="mem">
+                     <form>
+                        <input type="radio" id="qword" name="mem" checked="checked"/>
+                         <label for="qword">Qword</label>
+                         <br />
+                        <input type="radio" id="dword" name="mem"/>
+                         <label for="dword">Dword</label>
+                         <br />
+                        <input type="radio" id="word" name="mem"/>
+                         <label for="word">Word</label>
+                         <br />
+                        <input type="radio" id="byte" name="mem"/>
+                         <label for="byte">Byte</label>
+                    </form>
+                </td>
+                <td><button>Or</button></td>
+                <td><button>Xor</button></td>
+                <td><button disabled="disabled">D</button></td>
+                <td><button class="Buttons">4</button></td>
+                <td><button class="Buttons">5</button></td>
+                <td><button class="Buttons">6</button></td>
+                <td><button>*</button></td>
+                <td><button disabled="disabled">1/x</button></td>
+            </tr>
+            <tr>
+                <td><button>Lsh</button></td>
+                <td><button>Rsh</button></td>
+                <td><button disabled="disabled">E</button></td>
+                <td><button class="Buttons">1</button></td>
+                <td><button class="Buttons">2</button></td>
+                <td><button class="Buttons">3</button></td>
+                <td><button>-</button></td>
+                <td rowspan="2"><button class="equals">=</button></td>
+            </tr>
+            <tr>
+                <td><button>Not</button></td>
+                <td><button>And</button></td>
+                <td><button disabled="disabled">F</button></td>
+                <td colspan="2"><button class="zero">0</button></td>
+                <td><button disabled="disabled">.</button></td>
+                <td><button>+</button></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</div>
+</body>
+</html>

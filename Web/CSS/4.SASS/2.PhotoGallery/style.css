@@ -1,0 +1,15 @@
+body ul li {
+  display: inline-block;
+  list-style: none; }
+  body ul li input[type="radio"] {
+    visibility: hidden; }
+  body ul li img {
+    width: 150px;
+    height: 150px; }
+  body ul li > img {
+    display: none; }
+  body ul li input[type="radio"]:checked + img {
+    display: block;
+    width: 500px;
+    height: 500px; }
+

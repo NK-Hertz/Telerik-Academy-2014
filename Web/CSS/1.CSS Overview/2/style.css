@@ -1,0 +1,41 @@
+table{
+    border-spacing:0px;
+    border: 1px solid;
+}
+
+th{
+    background: #7FFF00;
+    color: white;
+}
+
+table tr:nth-child(even){
+	background: #eae7e0;
+}
+
+table tr:nth-child(odd){
+	background: #e9f2f1;
+}
+
+#Mexico
+{
+    background:url('MF.jpg') no-repeat left scroll;
+    background-size:contain;
+    text-align:right;
+    width:100px;
+}
+
+#Germany
+{
+    background:url('GF.png') no-repeat left scroll;
+    background-size:contain;
+    text-align:right;
+    width:100px;
+}
+
+#UK
+{
+    background:url('UK.jpg') no-repeat left scroll;
+    background-size:contain;
+    text-align:right;
+    width:100px;
+}

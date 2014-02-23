@@ -1,0 +1,101 @@
+﻿*
+{
+    margin:0;
+    padding:0;
+}
+
+ul
+{
+    list-style-type:none;
+}
+
+    ul li:first-child a
+    {
+        color:white;
+    }
+
+a
+{
+    text-decoration:none;
+}
+
+#content
+{
+    background:#1e333d;
+    border:1px solid #70d3c7;
+    border-radius:5px;
+    width:700px;
+    height:385px;
+    overflow: hidden;
+    font-weight:bold;
+}
+
+nav ul li
+{
+    display:inline-block;
+    height:25px;
+    margin-top:10px;
+    padding:10px;
+    background:#4b5e88;
+}
+
+nav a
+{
+        color:#79afb6;
+}
+
+nav a:hover
+{
+    text-decoration:underline;
+}
+
+    nav ul li:first-child
+    {
+        background:#1e333d;
+    }
+
+aside ul
+{
+   margin:10px 0; 
+   float:left;
+}
+
+    aside li
+    {
+        width:250px;
+        padding:7px;
+        border-bottom:1px solid #808080;
+    }
+
+    aside li:hover
+    {
+        background:#3caec3;
+    }
+
+        aside li:first-child
+        {
+            background:#3caec3;
+            padding-top:10px;
+            padding-bottom:10px;
+        }
+
+        aside li:last-child
+        {
+            border-bottom:none;
+        }
+        
+aside a
+{
+    color:#cacccb;
+}
+
+div.video
+{
+    width:400px;
+    height:350px;
+    background:url(btv_news.jpg) no-repeat;
+    float:right;
+    margin-top:10px;
+    padding:18px;
+    
+}

@@ -1,0 +1,37 @@
+$width : 150px;
+$height : 150px;
+$width-zoomed: 500px;
+$height-zoomed: 500px;
+
+body
+{
+	//make the images appear next to eachother
+	ul li{
+		display:inline-block;
+		list-style:none;
+
+		//hide radio button icons
+		input[type="radio"]{
+		visibility: hidden;
+		}
+
+		//all images
+		img {
+			width: $width;
+			height: $height;
+		}
+
+		//all images in list items directly are not displayed
+		>img{
+			display:none;
+		}
+
+		//all radio buttons followed by img
+		input[type="radio"]:checked + img 
+		{
+			display:block;
+			width: $width-zoomed;
+			height: $height-zoomed;
+		}
+	}
+}

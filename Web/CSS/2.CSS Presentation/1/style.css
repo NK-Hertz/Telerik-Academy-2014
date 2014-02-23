@@ -1,0 +1,9 @@
+﻿body {
+    color:#0094ff;
+    font-family:Consolas;
+}
+
+h3:first-letter{
+    font-family:'Edwardian Script ITC';
+    font-size:40px;
+}

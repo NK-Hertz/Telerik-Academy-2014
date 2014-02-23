@@ -1,0 +1,25 @@
+﻿body{
+	background: grey;
+	color: white;	
+}
+
+dt{
+    font-style:italic;
+}
+
+dd
+{
+	color:#BDB76B;
+}
+
+header,#respTime,#lastAction{
+	color: #8080FF;
+}
+
+#status{
+	color: orange;
+}
+
+#support{
+	color: red;
+}

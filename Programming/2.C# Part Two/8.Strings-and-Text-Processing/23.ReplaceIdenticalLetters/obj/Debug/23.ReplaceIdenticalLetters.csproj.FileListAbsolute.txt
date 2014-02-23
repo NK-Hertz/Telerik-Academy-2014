@@ -3,3 +3,8 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.pdb
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\obj\Debug\23.ReplaceIdenticalLetters.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\obj\Debug\23.ReplaceIdenticalLetters.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\obj\Debug\23.ReplaceIdenticalLetters.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\obj\Debug\23.ReplaceIdenticalLetters.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.pdb

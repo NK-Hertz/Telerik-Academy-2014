@@ -4,3 +4,9 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\04.SubstringCounter\bin\De
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\04.SubstringCounter\obj\Debug\04.SubstringCounter.csprojResolveAssemblyReference.cache
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\04.SubstringCounter\obj\Debug\04.SubstringCounter.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\04.SubstringCounter\obj\Debug\04.SubstringCounter.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\04.SubstringCounter\bin\Debug\04.SubstringCounter.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\04.SubstringCounter\bin\Debug\04.SubstringCounter.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\04.SubstringCounter\bin\Debug\04.SubstringCounter.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\04.SubstringCounter\obj\Debug\04.SubstringCounter.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\04.SubstringCounter\obj\Debug\04.SubstringCounter.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\04.SubstringCounter\obj\Debug\04.SubstringCounter.pdb

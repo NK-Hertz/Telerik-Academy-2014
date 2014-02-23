@@ -3,3 +3,9 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debu
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debug\03.BracketChecker.pdb
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\obj\Debug\03.BracketChecker.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\03.BracketChecker\obj\Debug\03.BracketChecker.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debug\03.BracketChecker.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debug\03.BracketChecker.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\03.BracketChecker\bin\Debug\03.BracketChecker.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\03.BracketChecker\obj\Debug\03.BracketChecker.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\03.BracketChecker\obj\Debug\03.BracketChecker.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\03.BracketChecker\obj\Debug\03.BracketChecker.pdb

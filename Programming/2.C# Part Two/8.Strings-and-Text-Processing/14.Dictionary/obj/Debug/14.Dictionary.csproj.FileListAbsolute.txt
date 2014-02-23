@@ -7,3 +7,6 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\14.Dictionary\obj\Debug\14
 D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\14.Dictionary\bin\Debug\14.Dictionary.exe.config
 D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\14.Dictionary\obj\Debug\14.Dictionary.exe
 D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\14.Dictionary\obj\Debug\14.Dictionary.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\14.Dictionary\bin\Debug\14.Dictionary.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\14.Dictionary\bin\Debug\14.Dictionary.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\14.Dictionary\obj\Debug\14.Dictionary.csprojResolveAssemblyReference.cache

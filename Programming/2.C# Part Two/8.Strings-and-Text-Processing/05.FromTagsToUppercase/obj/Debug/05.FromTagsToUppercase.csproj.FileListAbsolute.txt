@@ -4,3 +4,9 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\05.FromTagsToUppercase\bin
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\05.FromTagsToUppercase\obj\Debug\05.FromTagsToUppercase.csprojResolveAssemblyReference.cache
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\05.FromTagsToUppercase\obj\Debug\05.FromTagsToUppercase.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\05.FromTagsToUppercase\obj\Debug\05.FromTagsToUppercase.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\05.FromTagsToUppercase\bin\Debug\05.FromTagsToUppercase.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\05.FromTagsToUppercase\bin\Debug\05.FromTagsToUppercase.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\05.FromTagsToUppercase\bin\Debug\05.FromTagsToUppercase.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\05.FromTagsToUppercase\obj\Debug\05.FromTagsToUppercase.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\05.FromTagsToUppercase\obj\Debug\05.FromTagsToUppercase.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\05.FromTagsToUppercase\obj\Debug\05.FromTagsToUppercase.pdb

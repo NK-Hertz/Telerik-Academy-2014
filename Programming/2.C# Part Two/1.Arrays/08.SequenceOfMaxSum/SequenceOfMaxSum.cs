@@ -12,28 +12,39 @@ class SequenceOfMaxSum
         int[] array = new int[elements];
         int sum = 0;
         int maxSum = 0;
+        string sequence = "";
 
         for (int i = 0; i < elements; i++)
         {
-            Console.WriteLine("Enter {0} element: ");
+            Console.WriteLine("Enter {0} element: ", i);
             array[i] = int.Parse(Console.ReadLine());
         }
 
-        for (int i = 0; i < elements; i++)
+        for (int i = 0; i < elements - 1; i++)
         {
+            
             if (sum < 0)
             {
                 sum = array[i];
+                sequence = array[i].ToString();
             }
             else
             {
                 sum += array[i];
+                if (array[i] + array[i+1] != 0)
+                {
+                    sequence += array[i];
+                    sequence += " ";
+                }
             }
+
             if (sum >= maxSum)
             {
                 maxSum = sum;
             }
         }
-        Console.WriteLine(maxSum);
+
+        Console.WriteLine("The maximum sum is: {0}", maxSum);
+        Console.WriteLine("and the sequence is: {0}", sequence);
     }
 }

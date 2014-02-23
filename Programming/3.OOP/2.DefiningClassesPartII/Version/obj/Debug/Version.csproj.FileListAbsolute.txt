@@ -3,3 +3,4 @@ D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Version\bin\Debug\V
 D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Version\bin\Debug\Version.pdb
 D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Version\obj\Debug\Version.exe
 D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Version\obj\Debug\Version.pdb
+D:\Telerik-Academy\Programming\3.OOP\2.DefiningClassesPartII\Version\obj\Debug\Version.csprojResolveAssemblyReference.cache

@@ -7,3 +7,6 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\02.ReadAndReverseStr\obj\D
 D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\02.ReadAndReverseStr\bin\Debug\02.ReadAndReverseStr.exe.config
 D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\02.ReadAndReverseStr\obj\Debug\02.ReadAndReverseStr.exe
 D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\02.ReadAndReverseStr\obj\Debug\02.ReadAndReverseStr.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\02.ReadAndReverseStr\bin\Debug\02.ReadAndReverseStr.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\02.ReadAndReverseStr\bin\Debug\02.ReadAndReverseStr.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\02.ReadAndReverseStr\obj\Debug\02.ReadAndReverseStr.csprojResolveAssemblyReference.cache

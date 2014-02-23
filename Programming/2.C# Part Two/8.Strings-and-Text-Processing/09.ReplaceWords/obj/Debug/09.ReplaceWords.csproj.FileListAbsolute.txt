@@ -4,3 +4,8 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\09.ReplaceWords\bin\Debug\
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\09.ReplaceWords\obj\Debug\09.ReplaceWords.csprojResolveAssemblyReference.cache
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\09.ReplaceWords\obj\Debug\09.ReplaceWords.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\09.ReplaceWords\obj\Debug\09.ReplaceWords.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\09.ReplaceWords\bin\Debug\09.ReplaceWords.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\09.ReplaceWords\obj\Debug\09.ReplaceWords.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\09.ReplaceWords\obj\Debug\09.ReplaceWords.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\09.ReplaceWords\bin\Debug\09.ReplaceWords.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\09.ReplaceWords\bin\Debug\09.ReplaceWords.pdb

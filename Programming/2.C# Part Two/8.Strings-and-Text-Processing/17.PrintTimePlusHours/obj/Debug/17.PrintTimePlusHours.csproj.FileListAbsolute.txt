@@ -3,3 +3,8 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\17.PrintTimePlusHours\bin\
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\17.PrintTimePlusHours\bin\Debug\17.PrintTimePlusHours.pdb
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\17.PrintTimePlusHours\obj\Debug\17.PrintTimePlusHours.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\17.PrintTimePlusHours\obj\Debug\17.PrintTimePlusHours.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\17.PrintTimePlusHours\bin\Debug\17.PrintTimePlusHours.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\17.PrintTimePlusHours\obj\Debug\17.PrintTimePlusHours.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\17.PrintTimePlusHours\obj\Debug\17.PrintTimePlusHours.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\17.PrintTimePlusHours\bin\Debug\17.PrintTimePlusHours.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\17.PrintTimePlusHours\bin\Debug\17.PrintTimePlusHours.pdb

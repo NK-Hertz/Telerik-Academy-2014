@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection;
 
 [AttributeUsage(AttributeTargets.Struct |
 AttributeTargets.Class | AttributeTargets.Interface | AttributeTargets.Enum | AttributeTargets.Method)]
@@ -13,8 +14,7 @@ public class VersionAttribute : System.Attribute
 
 
 }
-
-[VersionAttribute("2.3")]
+[assembly: AssemblyVersionAttribute("1.0")]
 public class Program
 {
 

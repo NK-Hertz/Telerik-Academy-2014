@@ -3,3 +3,8 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\20.ExtractPalindromes\bin\
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.pdb
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.pdb

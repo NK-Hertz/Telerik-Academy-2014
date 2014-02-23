@@ -3,3 +3,8 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\bin
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\bin\Debug\21.PrintLettersAndInfo.pdb
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\obj\Debug\21.PrintLettersAndInfo.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\obj\Debug\21.PrintLettersAndInfo.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\bin\Debug\21.PrintLettersAndInfo.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\obj\Debug\21.PrintLettersAndInfo.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\obj\Debug\21.PrintLettersAndInfo.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\bin\Debug\21.PrintLettersAndInfo.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\21.PrintLettersAndInfo\bin\Debug\21.PrintLettersAndInfo.pdb

@@ -3,3 +3,8 @@ D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\bin
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\bin\Debug\16.DaysBetweenTwoDates.pdb
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\obj\Debug\16.DaysBetweenTwoDates.exe
 D:\Telerik-Academy\Game\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\obj\Debug\16.DaysBetweenTwoDates.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\bin\Debug\16.DaysBetweenTwoDates.exe.config
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\obj\Debug\16.DaysBetweenTwoDates.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\obj\Debug\16.DaysBetweenTwoDates.pdb
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\bin\Debug\16.DaysBetweenTwoDates.exe
+D:\Telerik-Academy\Programming\2.C# Part Two\8.Strings-and-Text-Processing\16.DaysBetweenTwoDates\bin\Debug\16.DaysBetweenTwoDates.pdb

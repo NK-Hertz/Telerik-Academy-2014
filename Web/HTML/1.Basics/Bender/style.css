@@ -1,0 +1,20 @@
+﻿body
+{
+    background-color:#ccecff;
+}
+
+ol
+{
+    list-style : none;
+}
+
+li
+{
+    display :inline;
+    padding-right: 35px;
+}
+
+img
+{
+    width:150px;
+}

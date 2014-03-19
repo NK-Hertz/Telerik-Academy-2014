@@ -14,6 +14,7 @@
 
         #submitReset 
         {
+			background-color:aquamarine;
             text-align:center !important;
         }
     </style>
@@ -86,16 +87,17 @@
                     <select id="gender" name="gender">
                         <option value="Male">Male</option>
                         <option value="Female">Female</option>
+						<option value="Other">Other</option>
                     </select>
                 </td>
             </tr>
             <tr>
                 <td >Starting date</td>
                 <td>
-                    <input type="radio" name="startDate" id="spring"/>
-                    <label for="spring">Spring 2006</label>
-                    <input type="radio" name="startDate" id="summer" />
-                    <label for="summer">Summer 2006</label>
+                    <input type="radio" name="startDate" id="spring2006"/>
+                    <label for="spring2006">Spring 2006</label>
+                    <input type="radio" name="startDate" id="summer2006" />
+                    <label for="summer2006">Summer 2006</label>
                 </td>
             </tr>
             <tr>
@@ -103,9 +105,9 @@
                 <td><textarea id="comments" placeholder="Please send more any questions you might have"></textarea></td>
             </tr>
             <tr>
-                <td colspan="2" style="background-color:aquamarine" id="submitReset">
-                    <input type="submit" />
-                    <input type="reset" />
+                <td colspan="2" id="submitReset">
+                    <input type="submit" value="Submit"/>
+                    <input type="reset" value="Reset"/>
                 </td>
             </tr>
         </table>

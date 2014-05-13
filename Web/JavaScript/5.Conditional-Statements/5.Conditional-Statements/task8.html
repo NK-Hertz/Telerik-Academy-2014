@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 8</title>
+    <style>
+        section {
+            width: 350px;
+            text-align: center;
+            border: 1px solid black;
+        }
+
+            section:nth-child(even) {
+                float: right;
+                clear: both;
+            }
+
+            section p {
+                padding: 5px;
+                text-align: justify;
+            }
+    </style>
+    <script src="task8.js"></script>
+</head>
+<body>
+    <section>
+        Task 8
+        <br />
+        <p>
+            Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation. Examples:
+            0 > "Zero"
+            273 > "Two hundred seventy three"
+            400 > "Four hundred"
+            501 > "Five hundred and one"
+            711 > "Seven hundred and eleven"
+        </p>
+        <br />
+        <label for="number">Enter number [0-999] : </label>
+        <input type="text" id="number" />
+        <br />
+        <a href="#" onclick="numToText()">result</a>
+    </section>
+</body>
+</html>

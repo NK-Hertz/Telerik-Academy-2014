@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements</title>
+    <style>
+        body {
+            width: 800px;
+        }
+
+        section {
+            width: 350px;
+            text-align: center;
+            border: 1px solid black;
+        }
+
+            section:nth-child(even) {
+                float: right;
+                clear: both;
+            }
+
+            section p {
+                padding:5px;
+                text-align:justify;
+            }
+    </style>
+    <script src="homework.js"></script>
+</head>
+<body>
+    <section id="">
+        Task 1
+        <br />
+        <p>Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.
+        </p>
+        <br />
+        <label for="greaterFirst">First Num</label>
+        <input type="text" id="greaterFirst" />
+        <br />
+        <label for="greaterSecond">Second Num</label>
+        <input type="text" id="greaterSecond" />
+        <br />
+        <a href="#" onclick="greater()">result</a>
+    </section>
+    <section>
+        Task 2
+        <br />
+        <p>Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements</p>
+        <br />
+        <label for="signFirst">First Num</label>
+        <input type="text" id="signFirst" />
+        <br />
+        <label for="signSecond">Second Num</label>
+        <input type="text" id="signSecond" />
+        <br />
+        <label for="signThird">Third Num</label>
+        <input type="text" id="signThird" />
+        <br />
+        <a href="#" onclick="showSign()">result</a>
+    </section>
+    <section>
+        Task 3
+        <br />
+        <p>Write a script that finds the biggest of three integers using nested if statements.
+        </p>
+        <br />
+        <label for="biggestFirst">First Num</label>
+        <input type="text" id="biggestFirst" />
+        <br />
+        <label for="biggestSecond">Second Num</label>
+        <input type="text" id="biggestSecond" />
+        <br />
+        <label for="biggestThird">Third Num</label>
+        <input type="text" id="biggestThird" />
+        <br />
+        <a href="#" onclick="biggestOfThree()">result</a>
+    </section>
+    <section>
+        Task 4
+        <br />
+        <p>Sort 3 real values in descending order using nested if statements.
+        </p>
+        <br />
+        <label for="sortValuesFirst">First Num</label>
+        <input type="text" id="sortValuesFirst" />
+        <br />
+        <label for="sortValuesSecond">Second Num</label>
+        <input type="text" id="sortValuesSecond" />
+        <br />
+        <label for="sortValuesThird">Third Num</label>
+        <input type="text" id="sortValuesThird" />
+        <br />
+        <a href="#" onclick="sortThreeValuesDesc()">result</a>
+    </section>
+    <section>
+        Task 5
+        <br />
+        <p>Write script that asks for a digit and depending on the input shows the name of that digit (in English) using a switch statement.
+        </p>
+        <br />
+        <label for="digit">Digit : </label>
+        <input type="text" id="digit" />
+        <br />
+        <a href="#" onclick="digitToText()">result</a>
+    </section>
+    <section>
+        Task 6
+        <br />
+        <p>Write a script that enters the coefficients a, b and c of a quadratic equation
+		    a*x2 + b*x + c = 0
+		and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots.</p>
+        <br />
+        <label for="quadrEqFirst">First Num</label>
+        <input type="text" id="quadrEqFirst" />
+        <br />
+        <label for="quadrEqSecond">Second Num</label>
+        <input type="text" id="quadrEqSecond" />
+        <br />
+        <label for="quadrEqThird">Third Num</label>
+        <input type="text" id="quadrEqThird" />
+        <br />
+        <a href="#" onclick="quadraticEquation()">result</a>
+    </section>
+    <section>
+        Task 7
+        <br />
+        <p>Write a script that finds the greatest of given 5 variables.
+        </p>
+        <br />
+        <label for="greatestValueFirst">First Num</label>
+        <input type="text" id="greatestValueFirst" />
+        <br />
+        <label for="greatestValueSecond">Second Num</label>
+        <input type="text" id="greatestValueSecond" />
+        <br />
+        <label for="greatestValueThird">Third Num</label>
+        <input type="text" id="greatestValueThird" />
+        <br />
+        <label for="greatestValueFourth">Fourth Num</label>
+        <input type="text" id="greatestValueFourth" />
+        <br />
+        <label for="greatestValueFifth">Fifth Num</label>
+        <input type="text" id="greatestValueFifth" />
+        <br />
+        <a href="#" onclick="greatestOfFive()">result</a>
+    </section>
+</body>
+</html>

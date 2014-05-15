@@ -36,21 +36,43 @@ function reverseDigits() {
 //3.Write a function that finds all the occurrences of word in a text
 //The search can case sensitive or case insensitive
 //Use function overloading
-function searchFor() {
-    var endOfFile = '\u001a';
-    var text = document.getElementById("textToUse").innerHTML;
-    var textArr = text.split(" ", 1);
-    var word = "Keanu";
-    var wordCount = 1;
-    //now what?
+var text = document.getElementById("textToUse").innerHTML;
+var wordToSearch = "Keanu";
+var caseSensitive = false;
 
-    console.log(wordCount);
+function searchFor(text, word, caseSensitive) {
+    textToUse = text || document.getElementById("textToUse").innerHTML;
+    wordToSearch = word || "Keanu";
+    caseSensitive = caseSensitive || false;
+    var wordCount = 0;
+    
+    if (caseSensitive === false) {
+        var strArr = textToUse.split(wordToSearch);
+
+        for (var str in strArr) {
+            wordCount++;
+        }
+        
+        console.log("Case-insesitive");
+        console.log("Word to search for: " + wordToSearch + ", Word count: " + wordCount);
+    }
+    else {
+        var index = text.indexOf(wordToSearch);
+
+        while (index >= 0) {
+            countSearchedWord++;
+            index = text.indexOf(wordToSearch, index+1);
+        }
+
+        console.log("Case-sesitive");
+        console.log("Word to search for: " + wordToSearch + ", Word count: " + wordCount);
+    }
 }
 
 //4.Write a function to count the number of divs on the web page
 function divCounter() {
     var divs = document.getElementsByTagName("div").length;
-    console.log(divs);
+    console.log("Total divs in the page : " + divs);
 }
 
 //5.Write a function that counts how many times given number appears in given array. 
@@ -65,7 +87,7 @@ function numCounter(arr, num) {
         }
     }
 
-    console.log(count);
+    console.log("The number " + numToSearch + " appears "  + count + " times");
     return count;
 }
 
@@ -94,10 +116,10 @@ function testNumCounter() {
 
 //6.Write a function that checks if the element at given position in given array of 
 //integers is bigger than its two neighbors (when such exist).
-var arr = [96, 30, 85, 73, 6, 58, 34, 64, 10, 4, 83, 34, 98, 61, 48];
-
 function checkNeighbors(position) {
-    var posToCheck = position || 14;
+    var arr = [96, 30, 85, 73, 6, 58, 34, 64, 10, 4, 83, 34, 98, 61, 48];
+    //if there is no position as input it will automatically search at 14 pos
+    var posToCheck = position;
     var isBiggerThanNeighbors = false;
     //if the position is always a number(index) within the limits of the array  
     if (posToCheck == 0) {
@@ -116,14 +138,14 @@ function checkNeighbors(position) {
         }
     }
 
-    console.log(isBiggerThanNeighbors);
+    console.log("Is the number at pos " + posToCheck + " bigger than its neighbors : " + isBiggerThanNeighbors);
     return isBiggerThanNeighbors;
 }
 
 //7.Write a function that returns the index of the first element in array that is bigger 
 //than its neighbors, or -1, if there’s no such element.
 //Use the function from the previous exercise.
-function indexOfBiggerThanNeighbors() {
+function indexOfBiggerThanNeighbors(arr) {
     for (var index = 0; index < arr.length; index++) {
         if (checkNeighbors(index) == true) {
             console.log("The first number bigger than its neighbors is : " + arr[index]);
@@ -132,5 +154,6 @@ function indexOfBiggerThanNeighbors() {
         }
     }
 
+    console.log("There is no number bigger than its two neighbors");
     return -1;
 }

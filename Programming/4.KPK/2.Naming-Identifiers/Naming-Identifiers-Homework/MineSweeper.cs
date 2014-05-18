@@ -45,17 +45,17 @@ namespace MineSweeper
             List<Points> champions = new List<Points>(6);
 			int row = 0;
 			int column = 0;
-			bool intro = true;
-			bool outro = false;
+			bool introActivated = true;
+			bool outroActivated = false;
 
 			do
 			{
-				if (intro)
+				if (introActivated)
 				{
 					Console.WriteLine("Hajde da igraem na “Mini4KI”. Probvaj si kasmeta da otkriesh poleteta bez mini4ki." +
 					" Komanda 'top' pokazva klasiraneto, 'restart' po4va nova igra, 'exit' izliza i hajde 4ao!");
 					DrawField(field);
-					intro = false;
+					introActivated = false;
 				}
 				Console.Write("Daj red i kolona : ");
 				command = Console.ReadLine().Trim();
@@ -78,7 +78,7 @@ namespace MineSweeper
 						bombs = PlaceBombs();
 						DrawField(field);
 						steppedOnMine = false;
-						intro = false;
+						introActivated = false;
 						break;
 					case "exit":
 						Console.WriteLine("4a0, 4a0, 4a0!");
@@ -93,7 +93,7 @@ namespace MineSweeper
 							}
 							if (maxSafeCells == openedSafeCells)
 							{
-								outro = true;
+								outroActivated = true;
 							}
 							else
 							{
@@ -140,9 +140,9 @@ namespace MineSweeper
 					bombs = PlaceBombs();
 					openedSafeCells = 0;
 					steppedOnMine = false;
-					intro = true;
+					introActivated = true;
 				}
-				if (outro)
+				if (outroActivated)
 				{
 					Console.WriteLine("\nBRAVOOOS! Otvri 35 kletki bez kapka kryv.");
 					DrawField(bombs);
@@ -154,8 +154,8 @@ namespace MineSweeper
 					field = CreateGameField();
 					bombs = PlaceBombs();
 					openedSafeCells = 0;
-					outro = false;
-					intro = true;
+					outroActivated = false;
+					introActivated = true;
 				}
 			}
 			while (command != "exit");

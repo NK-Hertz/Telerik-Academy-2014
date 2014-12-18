@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Super Mario</title>
+    <style>
+        svg {
+            fill: #5d94fb;
+            stroke: black;
+        }
+    </style>
+</head>
+<body>
+    <div id="canvasDiv"></div>
+    <script src="lib/raphael-min.js"></script>
+    <script src="lib/kinetic.min.js"></script>
+    <script>
+        window.onload = function () {
+
+
+            //var paper = Raphael(10, 10, 1000, 210);
+            //var sky = paper.rect(0, 0, 1000, 500);
+            //sky.attr({ fill: '#5d94fb' });
+            //var ground = paper.rect(0, 400, 1000, 100);
+            //ground.attr({ fill: '#f25010' });
+
+            var stage = new Kinetic.Stage({
+                container: 'canvasDiv', 
+                width: 1000,
+                height: 450
+                });
+            var layer = new Kinetic.Layer();
+
+            var rect = new Kinetic.Rect({
+                x: 100,
+                y: 420,
+                width: 20,
+                height: 30,
+                fill: 'green',
+                stroke: 'black',
+            });
+
+            function moveUp(number) {
+                var updateY = number + 5;
+                var newRect = new Kinetic.Rect({
+                    x: 100,
+                    y: updateY,
+                    width: 20,
+                    height: 30,
+                    fill: 'blue',
+                    stroke: 'yellow',
+                });
+
+                layer.add(newRect);
+            }
+
+            moveUp(rect.y);
+            moveUp(rect);
+            layer.add(rect);
+            stage.add(layer);
+        }
+    </script>
+</body>
+</html>

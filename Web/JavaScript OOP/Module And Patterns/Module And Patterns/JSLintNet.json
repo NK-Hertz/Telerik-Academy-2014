@@ -1,0 +1,8 @@
+﻿{
+  "ignore": [
+    "\\modules\\revealing-module-pattern.js",
+    "\\modules\\augmenting-modules-form.js",
+    "\\modules\\augmenting-modules-button.js",
+    "\\libs\\kinetic.min.js"
+  ]
+}

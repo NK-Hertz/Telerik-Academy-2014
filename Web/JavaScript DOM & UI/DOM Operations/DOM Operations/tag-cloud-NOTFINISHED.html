@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Tag Cloud</title>
+    <style>
+        #tag-container, #tag-cloud{
+            width: 500px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div>Original Cloud</div>
+    <div id="tag-container"></div>
+    <br />
+    <div>Tag Cloud</div>
+    <div id="tag-cloud"></div>
+    <script>
+        var tagContainer = document.getElementById('tag-container');
+        var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css",
+                    "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC",
+                    "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript",
+                    "http", "http", "CMS"];
+        tagContainer.innerHTML = tags.join(' ');
+
+        //for (var i = 0; i < tags.length; i++) {
+        //    var currentTag = tags[i].toLowerCase();
+        //    for (var j = i + 1; j < tags.length; j++) {
+
+        //    }
+        //}
+
+    </script>
+</body>
+</html>

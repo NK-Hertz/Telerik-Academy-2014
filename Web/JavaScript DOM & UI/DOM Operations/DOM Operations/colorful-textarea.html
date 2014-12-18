@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Change Colors All you want</title>
+    <style>
+        textarea {
+            width: 400px;
+            height: 200px; 
+        }
+    </style>
+</head>
+<body>
+    <textarea>content</textarea>
+    <br />
+    <input type="color" value=" " onchange="changeFontColor()" />
+    <input type="color" value=" " onchange="changeBGColor()"/>
+    <script>
+        var textArea = document.getElementsByTagName('textarea')[0];
+        var fontColor = document.getElementsByTagName('input')[0];
+        var bgColor = document.getElementsByTagName('input')[1];
+
+        function changeFontColor() {
+            textArea.style.color = fontColor.value;
+        }
+
+        function changeBGColor() {
+            textArea.style.backgroundColor = bgColor.value;
+        }
+    </script>
+</body>
+</html>

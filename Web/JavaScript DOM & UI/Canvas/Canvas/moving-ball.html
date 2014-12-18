@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Jump Around</title>
+</head>
+<body>
+    <canvas width="500" height="300" style="border:1px solid black"></canvas>
+    <script>
+        var canvas = document.getElementsByTagName('canvas')[0];
+        var ctx = canvas.getContext('2d');
+        ctx.lineWidth = 2;
+        
+        var circleRadius = 15;
+        var circleStartPosX = 20;
+        var circleStartPosY = canvas.height / 2;
+
+        ctx.beginPath();
+        ctx.arc(circleStartPosX, circleStartPosY, circleRadius, 0, 2 * Math.PI);
+        ctx.stroke();
+ 
+        var changePosX = 5;
+        var changePosY = 5;
+
+        function moveBall() {
+            
+            if (circleStartPosX + circleRadius >= canvas.width) {
+                changePosX = -5;
+            }
+            if (circleStartPosX <= circleRadius) {
+                changePosX = 5;
+            }
+            if (circleStartPosY + circleRadius >= canvas.height) {
+                changePosY = -5;
+            }
+            if (circleStartPosY <= circleRadius) {
+                changePosY = 5;
+            }
+
+            circleStartPosX += changePosX;
+            circleStartPosY += changePosY;
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.beginPath();
+            ctx.arc(circleStartPosX + 2, circleStartPosY + 2, circleRadius, 0, 2 * Math.PI);
+            ctx.stroke();
+            requestAnimationFrame(moveBall);
+        }
+        requestAnimationFrame(moveBall);
+    </script>
+</body>
+</html>

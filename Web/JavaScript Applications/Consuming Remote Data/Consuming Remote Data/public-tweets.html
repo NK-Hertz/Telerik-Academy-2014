@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Get Tweets</title>
+    <script src="libs/jquery-2.1.1.js"></script>
+    <script src="libs/oauth.js"></script>
+</head>
+<body>
+    <h1>
+        Read the developer documentation of Twitter
+        <br />
+        Create a simple application that visualizes all public tweets for a given user (maybe from a textbox)
+    </h1>
+    <a href="#" id ="logIn">Log In</a>
+    <br />
+    <label for="twitterScreenName">Enter twitter name: </label>
+    <input type="text" name="twitterScreenName" value="LeagueOfLegends" />
+    <br />
+    <label for="tweets">Enter number of tweets to get: </label>
+    <input type="number" name="tweets" value="2" />
+    <br /> 
+    <button id="getTweetsBtn">Get tweets</button>
+    <br /><br />
+    <div id='tweetConsole'></div>
+    <script src="scripts/collect-public-tweets.js"></script>
+</body>
+</html>

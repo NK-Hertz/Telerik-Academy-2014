@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Five Divs</title>
+</head>
+<body>
+    <div id="root"></div>
+    <script>
+        window.onload = function () {
+            var root = document.getElementById('root');
+            var divsToCreate = 5;
+            var divFragment = document.createDocumentFragment();
+            for (var i = 0; i < divsToCreate; i++) {
+                var divItem = document.createElement('div');
+                divItem.style.width = "5px";
+                divItem.style.height = "5px";
+                divItem.style.border = "1px solid black";
+                divItem.style.position = "absolute";
+                divItem.style.top = "200px";
+                divItem.style.left = "200px";
+                //divItem.innerHTML = i;
+
+                divFragment.appendChild(divItem);
+            }
+
+            root.appendChild(divFragment);
+
+            var centerX = 200;
+            var centerY = 200;
+            var radius = 150;
+            var angle = 0;
+
+            function move(currentDiv, angle) {
+                currentDiv.style.top = centerY + radius * Math.sin(angle) + "px";
+                currentDiv.style.left = centerX + radius * Math.cos(angle) + "px";
+            }
+
+            var nodes = document.getElementById('root').childNodes;
+
+            function callback() {
+                angle += 0.5;
+                for (var i = 0; i < nodes.length; i++) {
+                    var currentDiv = nodes[i];
+                    var currentAngle = angle + i * 2 * Math.PI / divsToCreate;
+
+                    move(currentDiv, currentAngle);
+                }
+
+                setTimeout(callback, 100);
+            }
+               
+            callback();
+        }
+    </script>
+</body>
+</html>

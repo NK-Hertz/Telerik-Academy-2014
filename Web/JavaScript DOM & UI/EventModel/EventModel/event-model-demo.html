@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JavaScript Event Model Demo</title>
+</head>
+<body>
+    <h1>TO DO List</h1>
+    <input type="text" value=" " placeholder=""/>
+    <button onclick="addItem()">Add Item</button>
+    <button onclick="deleteItem()">Delete Item</button>
+    <button onclick="changeVisibilityOfElement()">Show/Hide</button>
+    <div id="elementsContainer" onclick="selectElements()"></div>
+    <script>
+        var containerForNewElements = document.getElementById('elementsContainer');
+        function addItem() {
+            var input = document.getElementsByTagName('input')[0];
+            if (input.value.trim() != "") {
+                var div = document.createElement('div');
+                div.innerHTML = input.value;
+                containerForNewElements.appendChild(div);
+            }
+        }
+
+        function changeVisibilityOfElement() {
+            var selectedItems = document.getElementsByClassName('selected');
+            for (var i = 0; i < selectedItems.length; i++) {
+                if (selectedItems[i].style.display == "none") {
+                    selectedItems[i].style.display = "";
+                }
+                else {
+                    selectedItems[i].style.display = "none";
+                }
+            }
+        }
+
+        function selectElements() {
+            containerForNewElements.addEventListener('click', function (ev) {
+                if (ev.target.getAttribute("class") === "selected") {
+                    ev.target.style.border = "none";
+                    ev.target.removeAttribute("class");
+                }
+                else {
+                    ev.target.style.border = "1px solid black";
+                    ev.target.setAttribute("class", "selected");
+                }
+            });
+        }
+
+        function deleteItem() {
+            var items = document.getElementsByClassName('selected');
+            for (var i = 0; i < items.length; i++) {
+                items[i].parentNode.removeChild(items[i]);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Module Performing Requests</title>
+    <script src="libs/jquery-2.1.1.js"></script>
+</head>
+<body>
+    <h1>
+        Create a module that exposes methods for performing HTTP requests by given URL and headers
+        <br />getJSON and postJSON
+        <br />Both methods should work with promises
+    </h1>
+    <script src="scripts/module-performing-requests.js"></script>
+    <script>
+        var reqModule = new requestModule();
+
+        var url = 'http://localhost:3000/students';
+
+        reqModule.getJSON(url);
+
+        console.log('If there is a promise in the getJSON func, this will display first.');
+
+        var studentPesho = {
+            name: 'Pesho',
+            grade: 5
+        };
+
+        var headers = {
+            data: studentPesho
+        };
+
+        reqModule.postJSON(url, headers);
+
+        reqModule.getJSON(url);
+    </script>
+</body>
+</html>

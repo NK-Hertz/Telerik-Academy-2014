@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Moving Divs</title>
+</head>
+<body>
+    <div id="root" style="position: relative;"></div>
+    <script>
+        var divModule = (function movingDivsModule() {
+            var self;
+
+            var DIV_WIDTH = '25px';
+            var DIV_HEIGHT = '25px';
+            var MAX_COLOR_VALUE = 255;
+
+            var rootDiv = document.getElementById('root');
+            rootDiv.style.width = 768 + "px";
+            rootDiv.style.height = 568 + "px";
+
+            function getRandomColorValue() {
+                return Math.floor((Math.random() * MAX_COLOR_VALUE) + 0);
+            }
+
+            function getRandomNumber(maxNum, minNum) {
+                return Math.floor((Math.random() * maxNum) + minNum);
+            }
+
+            function createDiv() {
+                var div = document.createElement('div');
+                div.style.height = DIV_HEIGHT;
+                div.style.width = DIV_WIDTH;
+                div.style.position = 'absolute';
+                var topPosition = getRandomNumber(rootDiv.offsetHeight, 0);
+                var leftPosition = getRandomNumber(rootDiv.offsetWidth, 0);
+                div.style.top = topPosition + "px";
+                div.style.left = leftPosition + "px";
+                //div.innerHTML = "div";
+
+                var backgroundColorRedValue = getRandomColorValue();
+                var backgroundColorGreenValue = getRandomColorValue();
+                var backgroundColorBlueValue = getRandomColorValue();
+                var backgroundColor = "rgb(" + backgroundColorRedValue + ", " +
+                        backgroundColorGreenValue + ", " + backgroundColorBlueValue + ")";
+                div.style.backgroundColor = backgroundColor;
+
+                div.style.borderStyle = "solid";
+
+                var borderColorRedValue = getRandomColorValue();
+                var borderColorGreenValue = getRandomColorValue();
+                var borderColorBlueValue = getRandomColorValue();
+                var borderColorValues = "rgb(" + borderColorRedValue + ", " +
+                        borderColorGreenValue + ", " + borderColorBlueValue + ")";
+                div.style.borderColor = borderColorValues;
+
+                return div;
+            }
+
+            function move(trajectoryType) {
+                var div = createDiv();
+                root.appendChild(div);
+
+                if (trajectoryType === "rect") {
+                    var startPositionX = Number(div.style.left.substr(0, div.style.left.length - 2));
+                    var startPositionY = Number(div.style.top.substr(0, div.style.top.length - 2));
+                    //console.log(startPositionX);
+                    //console.log(startPositionY);
+                    var width = 200;
+                    var height = 200;
+                    var step = 20;
+
+
+                    function moveInRectTrajectory(div, step) {
+                        var top = Number(div.style.top.substring(0, div.style.top.length - 2));
+                        var left = Number(div.style.left.substring(0, div.style.left.length - 2));
+                        //console.log(top + ", " + left);
+                        //console.log("TOP ^ DIV >");
+                        //console.log(div.style.top + " " + div.style.left);
+
+                        if (top === startPositionY && left < startPositionX + width) {
+                            div.style.left = left + step + "px";
+                        }
+                        else if (top < startPositionY + height &&
+                                left === startPositionX + width) {
+                            div.style.top = top + step + "px";
+                        }
+                        else if (top === startPositionY + height &&
+                                left > startPositionX) {
+                            div.style.left = left - step + "px";
+                        }
+                        else if (top > startPositionY &&
+                                left === startPositionX) {
+                            div.style.top = top - step + "px";
+                        }
+                    }
+
+                    function changePosForRectTrajectory() {
+                        moveInRectTrajectory(div, step);
+                        setTimeout(changePosForRectTrajectory, 500);
+                    }
+
+                    changePosForRectTrajectory();
+                }
+                else if (trajectoryType === "ellipse") {
+                    var centerX = 200;
+                    var centerY = 200;
+                    var radius = 150;
+                    var angle = 0;
+
+                    function moveInEllipseTrajectory(div, angle) {
+                        div.style.top = centerY + radius * Math.sin(angle) + "px";
+                        div.style.left = centerX + radius * Math.cos(angle) + "px";
+                    }
+
+                    function changePosForEllipseTrajectory() {
+                        angle += 0.5;
+
+                        moveInEllipseTrajectory(div, angle);
+
+                        setTimeout(changePosForEllipseTrajectory, 500);
+                    }
+
+                    changePosForEllipseTrajectory();
+                }
+                else {
+                    throw new Error("Not a valid trajectory type!");
+                }
+
+            }
+
+            self = {
+                move: move
+            };
+
+            return self;
+        }());
+    
+        var divMovingInCircleMotion = divModule.move('ellipse');
+        var divMovingInRectMotion = divModule.move('rect');
+        
+    </script>
+</body>
+</html>

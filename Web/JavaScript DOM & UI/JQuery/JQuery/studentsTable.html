@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Table of Students</title>
+    <style>
+        th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <script src="libs/jquery.js"></script>
+    <script>
+        var students = [
+        {
+            firstName: "Peter",
+            lastName: "Ivanov",
+            grade: 3,
+        },
+        {
+            firstName: "Milena",
+            lastName: "Grigorova",
+            grade: 6,
+        },
+        {
+            firstName: "Gergana",
+            lastName: "Borisova",
+            grade: 12,
+        },
+        {
+            firstName: "Boyko",
+            lastName: "Petrov",
+            grade: 7,
+        }];
+
+        var keysCount = Object.keys(students[0]).length;
+        var keys = [];
+        keys.push(Object.keys(students[0]));
+
+        var root = document.getElementById('root');
+        var $table = $('<table>').css("border", "1px solid black").appendTo(root);
+        for (var i = 0; i < 1; i++) {
+            for (var j = 0; j < keysCount; j++) {
+                //before every capital letter adds white space
+                //and makes the first letter capital
+                var formatedKey = keys[i][j].replace(/([A-Z])/g, ' $1')
+                                .replace(/^./, function (str) {
+                                    return str.toUpperCase();
+                                });
+
+                $('<th>').html(formatedKey).appendTo($table);
+            }
+        }
+
+        for (var i = 0; i < students.length; i++) {
+            var $tr = $('<tr>').appendTo($table);
+            var firstName = students[i].firstName;
+            $('<td>').html(firstName).appendTo($tr);
+            var lastName = students[i].lastName;
+            $('<td>').html(lastName).appendTo($tr);
+            var grade = students[i].grade;
+            $('<td>').html(grade).appendTo($tr);
+        }
+    </script>
+</body>
+</html>

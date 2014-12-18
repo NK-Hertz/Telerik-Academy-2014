@@ -1,0 +1,8 @@
+﻿{
+  "output": "Warning",
+  "ignore": [],
+  "options": {
+    "predef": {}
+  },
+  "cancelBuild": false
+}

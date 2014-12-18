@@ -1,0 +1,16 @@
+{
+  "name": "Module And Patterns",
+  "version": "0.0.0",
+  "homepage": "https://github.com/NK-Hertz/Telerik-Academy",
+  "authors": [
+    "NK-Hertz <fester.s.son@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

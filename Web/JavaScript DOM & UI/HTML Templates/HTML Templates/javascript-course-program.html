@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>JavaScript Course Program</title>
+    <style>
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        tr:nth-child(even) {
+            background-color: #d9d9d9;
+        }
+
+        th {
+            background-color: #a6a6a6;
+            color: white;
+            border: 1px solid black;
+        }
+
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <script id="course-program-template" type="text/x-handlebars-template">
+        <table>
+            <thead>
+                <tr>
+                    <th>№</th>
+                    <th>Title</th>
+                    <th>Date #1</th>
+                    <th>Date #2</th>
+                </tr>
+            </thead>
+            {{#lections}}
+            <tr>
+                <td>{{number}}</td>
+                <td>{{title}}</td>
+                <td>{{firstDate}}</td>
+                <td>{{secondDate}}</td>
+            </tr>
+            {{/lections}}
+        </table>
+    </script>
+    <script src="libs/handlebars.min.js"></script>
+    <script>
+        var lections = [{
+            number: 0,
+            title: "Course Introduction",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 1,
+            title: "Document Object Model",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 2,
+            title: "HTML5 Canvas",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 3,
+            title: "Kinect JS Overview",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 4,
+            title: "SVG and RaphaelJS",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 5,
+            title: "Animation with Canvas and SVG",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 6,
+            title: "DOM operations",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 7,
+            title: "Event Model",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 8,
+            title: "jQuery Overview",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 9,
+            title: "HTML Templates",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 10,
+            title: "Exam Preparation",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 11,
+            title: "Exam",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, {
+            number: 12,
+            title: "Teamwork Defense",
+            firstDate: "Wed 18:00, 28-May-2014",
+            secondDate: "Thu 14:00, 29-May-2014"
+        }, ];
+
+        var courseTemplateHTML =
+            document.getElementById('course-program-template').innerHTML;
+        var courseTemplate = Handlebars.compile(courseTemplateHTML);
+        var courseHTML = courseTemplate({
+            lections: lections
+        })
+        document.body.innerHTML += courseHTML;
+    </script>
+</body>
+</html>

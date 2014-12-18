@@ -1,0 +1,1 @@
+﻿instead of using the fields create properties

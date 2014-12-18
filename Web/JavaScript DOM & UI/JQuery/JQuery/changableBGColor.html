@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Changable BG Color</title>
+</head>
+<body>
+    <input type="color" value=" " onchange="changeBGColor()"/>
+    <script src="libs/jquery.js"></script>
+    <script>
+        function changeBGColor() {
+            var $body = $(document.body);
+            var color = document.getElementsByTagName('input')[0].value;
+            $body.css("backgroundColor", color);
+        }
+    </script>
+</body>
+</html>

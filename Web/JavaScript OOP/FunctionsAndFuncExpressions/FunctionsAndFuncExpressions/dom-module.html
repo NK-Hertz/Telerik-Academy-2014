@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DOM Module</title>
+</head>
+<body>
+    <div>Ala bala</div>
+    <div id="wrapper">Ala bala</div>
+    <button>Click Me</button>
+    <div>Ala bala</div>
+    <script>
+        var domModule = (function module() {
+            var self;
+
+            // problem here appends always to first parent matching the criteria
+            // add css selectors
+            function append(item, parentSelector) {
+                var selected = getElements(parentSelector);
+                selected[0].appendChild(item);
+            }
+
+            function remove(parent, item) {
+                var selected = getElements(parent);
+                selected[0].removeChild(item);
+            }
+
+            function addHandler(selector, eventType, handler) {
+                var selected = getElements(selector);
+                selected[0].addEventListener(eventType, handler);
+            }
+
+            var MAX_BUFFER_SIZE = 100;
+            var buffer = {};
+
+            function addToBuffer(selector, item) {
+                var parent = document.querySelector(selector);
+
+                if (!buffer[parent]) {
+                    buffer[parent] = [];
+                }
+
+                buffer[parent].push(item);
+
+                if (buffer[parent].length === MAX_BUFFER_SIZE) {
+                    var fragment = document.createDocumentFragment();
+                    for (var index = 0; index < MAX_BUFFER_SIZE; index++) {
+                        fragment.appendChild(buffer[parent][index]);
+                    }
+                    
+                    parent.appendChild(fragment);
+                    buffer[parent] = [];
+                }
+
+            }
+
+            function getElements(selector) {
+                var selected = document.querySelectorAll(selector);
+                return selected;
+            }
+
+            self = {
+                append: append,
+                remove: remove,
+                addHandler: addHandler,
+                addToBuffer: addToBuffer,
+                getElements: getElements
+            };
+
+            return self;
+        }());
+
+        
+        var spanElement = document.createElement('span');
+        spanElement.innerHTML = "asldkgahjd,aj";
+
+        domModule.append(spanElement, 'div');
+        domModule.remove('div', spanElement);
+
+        var secondSpanElement = document.createElement('span');
+        secondSpanElement.innerHTML = " angrilly typing on the keyboard, while drinking tea";
+        domModule.append(secondSpanElement, '#wrapper');
+
+        // appends 100 span elements
+        //for (var i = 0; i < 100; i++) {
+            domModule.addToBuffer('#wrapper', secondSpanElement.cloneNode(true));
+        //}
+
+        domModule.addHandler('button', 'click', function () {
+            alert("Clicked!");
+        });
+
+        domModule.getElements('div');
+    </script>
+</body>
+</html>

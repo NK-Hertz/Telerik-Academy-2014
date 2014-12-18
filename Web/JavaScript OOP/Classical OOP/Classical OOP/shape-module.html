@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Classical OOP</title>
+</head>
+<body>
+    <canvas width="700" height="500" style="border: 1px solid black"></canvas>
+    <script src="scripts/shape-module.js"></script>
+    <script>
+        var canvas = document.getElementsByTagName('canvas')[0];
+        var context = canvas.getContext('2d');
+
+        shapeModule.rect(10, 10, 50, 50);
+        shapeModule.rect(20, 20, 50, 50);
+        shapeModule.rect(30, 20, 50, 50);
+        shapeModule.rect(40, 10, 50, 50);
+
+        shapeModule.circle(360, 80, 50);
+        shapeModule.circle(440, 80, 50);
+        shapeModule.circle(520, 80, 50);
+        shapeModule.circle(600, 80, 50);
+
+        shapeModule.line(220, 420, 380, 280);
+        shapeModule.line(220, 280, 420, 420);
+    </script>
+</body>
+</html>

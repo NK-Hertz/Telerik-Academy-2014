@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Slider Control</title>
+    <style>
+        #root {
+            width: 500px;
+            height: 500px; 
+            border: 1px solid black;
+            position: relative;
+        }
+
+        #slide-container {
+            width: 400px;
+            margin-left: 50px;
+            margin-top: 20px;
+        }
+
+        #selected {
+            display: block;
+            width: 400px;
+
+        }
+
+        img {
+            display: none;
+        }
+
+        button {
+            width: 80px;
+            position: absolute;
+            top: 470px;
+        }
+
+        #previous {
+            left: 170px;
+        }
+
+        #next {
+            left: 250px;
+        }
+    </style>
+</head>
+<body>
+    <div id="root">
+        <div id="slide-container">
+            <img src="imgs/lizard-couple.jpg" alt="Lizard couple" id="selected" />
+            <img src="imgs/deadline.jpg" alt="Deadline" />
+            <img src="imgs/my-code.jpg" alt="My Code" />
+            <img src="imgs/piece-of-shit.jpg" alt="Piece Of Shit" />
+            <img src="imgs/roar.jpg" alt="Lion Motivation" />
+        </div>
+        <button id="previous" onclick="showPrevious()">Previous</button>
+        <button id="next" onclick="showNext()">Next</button>
+    </div>
+    <script src="libs/jquery.js"></script>
+    <script>
+        var slideContainer = document.getElementById('slide-container');
+        var imgs = document.getElementsByTagName('img');
+        var imageWidth = "400px";
+
+        function showNext() {
+            var $selected = $(document.getElementById('selected'));
+
+            var lastChildReached = $selected.attr('id') != $(imgs[imgs.length - 1]).attr('id');
+            if (lastChildReached) {
+                var $nextSibling = $selected.next().show()
+                                    .css('width', imageWidth)
+                                    .attr('id', 'selected');
+                $selected.removeAttr('id').hide();
+            }
+        }
+
+        function showPrevious() {
+            var $selected = $(document.getElementById('selected'));
+            var firstChildReached = $selected.attr('id') != $(imgs[0]).attr('id');
+            if (firstChildReached) {
+                var $previousSibling = $selected.prev().show()
+                                        .css('width', imageWidth)
+                                        .attr('id', 'selected');
+                $selected.removeAttr('id').hide();
+            }
+        }
+    </script>
+</body>
+</html>

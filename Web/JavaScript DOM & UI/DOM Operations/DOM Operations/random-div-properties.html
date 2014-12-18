@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>  
+    <title>Random Div Properties</title>
+</head>
+<body>
+    <div id="root"></div>
+    <script>
+        window.onload = function () {
+            var MAX_RGB_VALUE = 255;
+
+            function getRandomNumber(maxNum, minNum) {
+                return Math.floor((Math.random() * maxNum) + minNum);
+            };
+
+            function getRandomColorValue() {
+                return Math.floor((Math.random() * MAX_RGB_VALUE) + 0);
+            }
+
+            var rootDiv = document.getElementById('root');
+            rootDiv.style.width = 1024 + "px";
+            rootDiv.style.height = 768 + "px";
+
+            var divFragment = document.createDocumentFragment();
+            var numberOfDivs = getRandomNumber(10, 1);
+            for (var i = 0; i < numberOfDivs; i++) {
+                var item = document.createElement('div');
+                var width = getRandomNumber(100, 20);
+                item.style.width = width + "px";
+                var height = getRandomNumber(100, 20);
+                item.style.height = height + "px";
+                //console.dir("width: " + item.style.width);
+                //console.dir("height: " + item.style.height);
+
+                var backgroundRedValue = getRandomColorValue();
+                var backgroundGreenValue = getRandomColorValue();
+                var backgroundBlueValue = getRandomColorValue();
+                var backgroundColorValues = "rgb(" + backgroundRedValue + ", " +
+                        backgroundGreenValue + ", " +
+                        backgroundBlueValue + ")";
+                item.style.backgroundColor = backgroundColorValues;
+                //console.log("RGB: " + item.style.backgroundColor);
+
+                item.style.position = "absolute";
+                var topPosition = getRandomNumber(rootDiv.offsetHeight, 0);
+                var leftPosition = getRandomNumber(rootDiv.offsetWidth, 0);
+                item.style.top = topPosition + "px";
+                item.style.left = leftPosition + "px";
+                //console.log("Top: " + item.style.top + ", Left: " + item.style.left);
+
+                var fontColorRedValue = getRandomColorValue();
+                var fontColorGreenValue = getRandomColorValue();
+                var fontColorBlueValue = getRandomColorValue();
+                var fontColorValues = "rgb(" + fontColorRedValue + ", " + 
+                        fontColorGreenValue +
+                        ", " + fontColorBlueValue + ")";
+                item.style.color = fontColorValues;
+                //console.log(item.style.color);
+
+                var strongElement = document.createElement('strong');
+                strongElement.innerHTML = "div";
+                item.appendChild(strongElement);
+
+                var borderWidth = getRandomNumber(20, 1);
+                item.style.borderWidth = borderWidth + "px";
+                //console.log(item.style.borderWidth);
+
+                var borderRadius = getRandomNumber(100, 0);
+                item.style.borderRadius = borderRadius + "px";
+                //console.log(item.style.borderRadius);
+                
+                item.style.borderStyle = "solid";
+
+                var borderColorRedValue = getRandomColorValue();
+                var borderColorGreenValue = getRandomColorValue();
+                var borderColorBlueValue = getRandomColorValue();
+                var borderColorValues = "rgb(" + borderColorRedValue + ", " + 
+                        borderColorGreenValue + ", " + borderColorBlueValue + ")";
+                item.style.borderColor = borderColorValues;
+                //console.log(item.style.borderColor);
+
+                divFragment.appendChild(item);
+            }
+
+            rootDiv.appendChild(divFragment);
+        }
+    </script>
+</body>
+</html>

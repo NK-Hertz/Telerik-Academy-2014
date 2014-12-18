@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dropdown List</title>
+</head>
+<body>
+    <select id="dropdown">
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+        <option value="4">Four</option>
+        <option value="5">Five</option>
+    </select>
+    <button>Call Dropdown</button>
+    <script src="libs/jquery.js"></script>
+    <script>
+        (function ($) {
+            $.fn.dropdown = function () {
+                var $this = $(this);
+
+                $this.hide();
+                $(buttonCallDropdown).hide();
+
+                var $divContainer = $('<div>').addClass($this.attr('id') + '-list-container')
+                                        .insertAfter($this);
+                var $ulOptions = $('<ul>').addClass($this.attr('id') + '-list-options')
+                                .appendTo($divContainer);
+                $ulOptions.on('click', 'li', selectElements);
+                var $liItemsToCreate = $($this.selector + ' option').length;
+                var $selectOption = $this.children().first();
+                for (var i = 0; i < $liItemsToCreate; i++) {
+                    var $currentLi = $('<li>').addClass($this.attr('id') + '-list-option')
+                                    .html($selectOption.html()).appendTo($ulOptions);
+                    $currentLi.attr('data-value', i.toString());
+                    
+                    $selectOption = $selectOption.next();
+                }
+
+
+                function selectElements(ev) {
+                    ev.target.setAttribute('id', 'selected');
+                    if (true) {
+                        changeSelectedItem();
+                    }
+
+                    function changeSelectedItem() {
+                        var currentLiPosition = document.getElementById('selected')
+                                                .getAttribute('data-value');
+                        var selectedOption = document.getElementsByTagName('option')[currentLiPosition];
+                        $(selectedOption).attr('selected', 'selected');
+                        $this.show();
+                        $(buttonCallDropdown).show();
+                        $divContainer.remove();
+                    }
+                }
+
+                return this;
+            }
+        }(jQuery));
+
+        var buttonCallDropdown = document.getElementsByTagName('button')[0];
+        buttonCallDropdown.onclick = function () {
+            $('#dropdown').dropdown();
+            
+        }
+    </script>
+</body>
+</html>

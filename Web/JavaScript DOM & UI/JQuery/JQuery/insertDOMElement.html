@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Insert DOM Element</title>
+</head>
+<body>
+    <div id="container">
+        <input type="text" value="aaa"/>
+        <button onclick="insertDivAfter()" >Insert After</button>
+        <button onclick="insertDivBefore()" >Insert Before</button>
+        <div id="root">
+            <div>First</div>
+        </div>
+    </div>
+    <script src="libs/jquery.js"></script>
+    <script>
+        function createDivElement() {
+            var contentToInput = document.getElementsByTagName('input')[0];
+            var $this = $('<div>').html(contentToInput.value).css("border", "1px solid black");
+            console.log($this);
+            return $this;
+        }
+
+        var root = document.getElementById('root');
+
+        function insertDivAfter() {
+            var $divElement = createDivElement();
+            $divElement.insertAfter(root);
+        }
+
+        function insertDivBefore() {
+            var $divItem = createDivElement();
+            $divItem.insertBefore(root);
+        }
+    </script>
+</body>
+
+</html>
